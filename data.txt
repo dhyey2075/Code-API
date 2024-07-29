@@ -1,0 +1,2717 @@
+<html lang="en"><head>
+        <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-K230KVN22K&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-743380-5"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-743380-5');
+        </script>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="X-Csrf-Token" content="b353a27e5ca43af28f97745c1e5df1ee">
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=0.01">
+
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery-1.8.3.js"></script>
+    <script type="application/javascript">
+        window.locale = "en";
+        window.standaloneContest = false;
+        function adjustViewport() {
+            var screenWidthPx = Math.min($(window).width(), window.screen.width);
+            var siteWidthPx = 1100; // min width of site
+            var ratio = Math.min(screenWidthPx / siteWidthPx, 1.0);
+            var viewport = "width=device-width, initial-scale=" + ratio;
+            $('#viewport').attr('content', viewport);
+            var style = $('<style>html * { max-height: 1000000px; }</style>');
+            $('html > head').append(style);
+        }
+
+        if ( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ) {
+            adjustViewport();
+        }
+
+        /* Protection against trailing dot in domain. */
+        let hostLength = window.location.host.length;
+        if (hostLength > 1 && window.location.host[hostLength - 1] === '.') {
+            window.location = window.location.protocol + "//" + window.location.host.substring(0, hostLength - 1);
+        }
+    </script>
+
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="-1">
+    <meta http-equiv="profileName" content="i1">
+    <meta name="google-site-verification" content="OTd2dN5x4nS4OPknPI9JFg36fKxjqY0i1PSfFPv_J90">
+    <meta property="fb:admins" content="100001352546622">
+    <meta property="og:image" content="//codeforces.org/s/78493/images/codeforces-sponsored-by-ton.png">
+    <link rel="image_src" href="//codeforces.org/s/78493/images/codeforces-sponsored-by-ton.png">
+    <meta property="og:title" content="dhruvil_9198 - Codeforces">
+    <meta property="og:description" content="">
+    
+    <meta property="og:site_name" content="Codeforces">
+    
+    
+    
+    
+    
+    
+    <meta name="utc_offset" content="+03:00">
+    <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2">
+    <title>dhruvil_9198 - Codeforces</title>
+        <meta name="description" content="Codeforces. Programming competitions and contests, programming community">
+        <meta name="keywords" content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/font-awesome.min.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/line-awesome.min.css" type="text/css" charset="utf-8">
+
+        <link href="//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+        <link href="//fonts.googleapis.com/css?family=Cuprum&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+
+
+    <link rel="apple-touch-icon" sizes="57x57" href="//codeforces.org/s/78493/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//codeforces.org/s/78493/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="//codeforces.org/s/78493/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//codeforces.org/s/78493/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="//codeforces.org/s/78493/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//codeforces.org/s/78493/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="//codeforces.org/s/78493/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//codeforces.org/s/78493/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="//codeforces.org/s/78493/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="//codeforces.org/s/78493/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//codeforces.org/s/78493/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="//codeforces.org/s/78493/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//codeforces.org/s/78493/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="//codeforces.org/s/78493/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!--CombineResourcesFilter-->
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/prettify.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/clear.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/style.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/ttypography.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/problem-statement.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/second-level-menu.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/roundbox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/datatable.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/table-form.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/topic.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/jquery.jgrowl.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/facebox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/jquery.wysiwyg.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/jquery.autocomplete.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/codeforces.datepick.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/colorbox.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/css/jquery.drafts.css" type="text/css" charset="utf-8">
+        <link rel="stylesheet" href="//codeforces.org/s/78493/css/calendar_yearview_blocks.css" type="text/css" charset="utf-8">
+        <link rel="stylesheet" href="//codeforces.org/s/78493/css/community.css" type="text/css" charset="utf-8">
+
+    <!-- MathJax -->
+    <script type="text/x-mathjax-config;executed=true">
+    MathJax.Hub.Config({
+      tex2jax: {inlineMath: [['$$$','$$$']], displayMath: [['$$$$$$','$$$$$$']]}
+    });
+    MathJax.Hub.Register.StartupHook("End", function () {
+        Codeforces.runMathJaxListeners();
+    });
+    </script>
+    <script type="text/javascript" async="" src="https://mathjax.codeforces.org/MathJax.js?config=TeX-AMS_HTML-full">
+    </script>
+    <!-- /MathJax -->
+
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/prettify/prettify.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/pushstream.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.lavalamp.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.jgrowl.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.swipe.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.hotkeys.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/facebox.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.wysiwyg.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/controls/wysiwyg.colorpicker.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/controls/wysiwyg.table.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/controls/wysiwyg.image.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/controls/wysiwyg.link.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.datepick.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.ie6blocker.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.colorbox-min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.ba-bbq.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery.drafts.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/clipboard.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/autosize.min.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/sjcl.js"></script>
+    <script type="text/javascript" src="/scripts/44f4cd011de07ed2c2180cfb32238651/en/codeforces-options.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/codeforces.js?v=20160131"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/EventCatcher.js?v=20160131"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/preparedVerdictFormats-en.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/js/confetti.min.js"></script>
+    <!--/CombineResourcesFilter-->
+
+    <link rel="stylesheet" href="//codeforces.org/s/78493/markitup/skins/markitup/style.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="//codeforces.org/s/78493/markitup/sets/markdown/style.css" type="text/css" charset="utf-8">
+
+
+    <script type="text/javascript" src="//codeforces.org/s/78493/markitup/jquery.markitup.js"></script>
+    <script type="text/javascript" src="//codeforces.org/s/78493/markitup/sets/markdown/set.js"></script>
+
+    <!--[if IE]>
+    <style>
+        #sidebar {
+            padding-left: 1em;
+            margin: 1em 1em 1em 0;
+        }
+    </style>
+    <![endif]-->
+
+
+        <script id="nocomb.calendar_yearview_blocks.js" src="//codeforces.org/s/78493/js/calendar_yearview_blocks.js" type="text/javascript"></script>
+        <script id="nocomb.jquery.flot.min.js" src="//codeforces.org/s/78493/js/jquery.flot.min.js" type="text/javascript"></script>
+        <script id="nocomb.jquery.flot.time.min.js" src="//codeforces.org/s/78493/js/jquery.flot.time.min.js" type="text/javascript"></script>
+        <script id="nocomb.jquery.flot.navigate.min.js" src="//codeforces.org/s/78493/js/jquery.flot.navigate.min.js" type="text/javascript"></script>
+
+
+<style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">.MathJax_Preview .MJXf-math {color: inherit!important}
+</style><style type="text/css">.MJX_Assistive_MathML {position: absolute!important; top: 0; left: 0; clip: rect(1px, 1px, 1px, 1px); padding: 1px 0 0 0!important; border: 0!important; height: 1px!important; width: 1px!important; overflow: hidden!important; display: block!important; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none}
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block {width: 100%!important}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888; display: contents}
+#MathJax_Message {position: fixed; left: 1px; bottom: 2px; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><style type="text/css">.MJXp-script {font-size: .8em}
+.MJXp-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXp-bold {font-weight: bold}
+.MJXp-italic {font-style: italic}
+.MJXp-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-largeop {font-size: 150%}
+.MJXp-largeop.MJXp-int {vertical-align: -.2em}
+.MJXp-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXp-display {display: block; text-align: center; margin: 1em 0}
+.MJXp-math span {display: inline-block}
+.MJXp-box {display: block!important; text-align: center}
+.MJXp-box:after {content: " "}
+.MJXp-rule {display: block!important; margin-top: .1em}
+.MJXp-char {display: block!important}
+.MJXp-mo {margin: 0 .15em}
+.MJXp-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXp-denom {display: inline-table!important; width: 100%}
+.MJXp-denom > * {display: table-row!important}
+.MJXp-surd {vertical-align: top}
+.MJXp-surd > * {display: block!important}
+.MJXp-script-box > *  {display: table!important; height: 50%}
+.MJXp-script-box > * > * {display: table-cell!important; vertical-align: top}
+.MJXp-script-box > *:last-child > * {vertical-align: bottom}
+.MJXp-script-box > * > * > * {display: block!important}
+.MJXp-mphantom {visibility: hidden}
+.MJXp-munderover, .MJXp-munder {display: inline-table!important}
+.MJXp-over {display: inline-block!important; text-align: center}
+.MJXp-over > * {display: block!important}
+.MJXp-munderover > *, .MJXp-munder > * {display: table-row!important}
+.MJXp-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXp-mtable > * {display: inline-table!important; vertical-align: middle}
+.MJXp-mtr {display: table-row!important}
+.MJXp-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXp-mtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-mlabeledtr {display: table-row!important}
+.MJXp-mlabeledtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mlabeledtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXp-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXp-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXp-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXp-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXp-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXp-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXp-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXp-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXp-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXp-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+.MathJax_PHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+</style><style type="text/css">.MathJax_Display {text-align: center; margin: 1em 0em; position: relative; display: block!important; text-indent: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; width: 100%}
+.MathJax .merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MathJax .MJX-monospace {font-family: monospace}
+.MathJax .MJX-sans-serif {font-family: sans-serif}
+#MathJax_Tooltip {background-color: InfoBackground; color: InfoText; border: 1px solid black; box-shadow: 2px 2px 5px #AAAAAA; -webkit-box-shadow: 2px 2px 5px #AAAAAA; -moz-box-shadow: 2px 2px 5px #AAAAAA; -khtml-box-shadow: 2px 2px 5px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true'); padding: 3px 4px; z-index: 401; position: absolute; left: 0; top: 0; width: auto; height: auto; display: none}
+.MathJax {display: inline; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; padding: 0; margin: 0}
+.MathJax:focus, body :focus .MathJax {display: inline-table}
+.MathJax.MathJax_FullWidth {text-align: center; display: table-cell!important; width: 10000em!important}
+.MathJax img, .MathJax nobr, .MathJax a {border: 0; padding: 0; margin: 0; max-width: 5000em; max-height: 5000em; min-width: 0; min-height: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!important; vertical-align: 0!important}
+.MathJax span {display: inline; position: static; border: 0; padding: 0; margin: 0; vertical-align: 0; line-height: normal; text-decoration: none; box-sizing: content-box}
+.MathJax nobr {white-space: nowrap!important}
+.MathJax img {display: inline!important; float: none!important}
+.MathJax * {transition: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none}
+.MathJax_Processing {visibility: hidden; position: fixed; width: 0; height: 0; overflow: hidden}
+.MathJax_Processed {display: none!important}
+.MathJax_test {font-style: normal; font-weight: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow: hidden; height: 1px}
+.MathJax_test.mjx-test-display {display: table!important}
+.MathJax_test.mjx-test-inline {display: inline!important; margin-right: -1px}
+.MathJax_test.mjx-test-default {display: block!important; clear: both}
+.MathJax_ex_box {display: inline-block!important; position: absolute; overflow: hidden; min-height: 0; max-height: none; padding: 0; border: 0; margin: 0; width: 1px; height: 60ex}
+.MathJax_em_box {display: inline-block!important; position: absolute; overflow: hidden; min-height: 0; max-height: none; padding: 0; border: 0; margin: 0; width: 1px; height: 60em}
+.mjx-test-inline .MathJax_left_box {display: inline-block; width: 0; float: left}
+.mjx-test-inline .MathJax_right_box {display: inline-block; width: 0; float: right}
+.mjx-test-display .MathJax_right_box {display: table-cell!important; width: 10000em!important; min-width: 0; max-width: none; padding: 0; border: 0; margin: 0}
+.MathJax .MathJax_HitBox {cursor: text; background: white; opacity: 0; filter: alpha(opacity=0)}
+.MathJax .MathJax_HitBox * {filter: none; opacity: 1; background: transparent}
+#MathJax_Tooltip * {filter: none; opacity: 1; background: transparent}
+@font-face {font-family: MathJax_Main; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Main-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Main-Regular.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Main-bold; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Main-Bold.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Main-Bold.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Main-italic; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Main-Italic.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Main-Italic.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Math-italic; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Math-Italic.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Math-Italic.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Caligraphic; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Caligraphic-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Caligraphic-Regular.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Size1; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Size1-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Size1-Regular.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Size2; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Size2-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Size2-Regular.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Size3; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Size3-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Size3-Regular.otf?V=2.7.9') format('opentype')}
+@font-face {font-family: MathJax_Size4; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Size4-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular.otf?V=2.7.9') format('opentype')}
+.MathJax .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+</style></head>
+<body class=" "><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="">Loading [MathJax]/jax/output/HTML-CSS/fonts/TeX/fontdata.js</div><span style="display:none;" class="csrf-token" data-csrf="b353a27e5ca43af28f97745c1e5df1ee">&nbsp;</span>
+
+<!-- .notificationTextCleaner used in Codeforces.showAnnouncements() -->
+<div class="notificationTextCleaner" style="font-size: 0"></div>
+<div class="button-up" style="display: none; opacity: 0.7; width: 30px; height: 100%; position: fixed; left: 0px; top: 0px; cursor: pointer; text-align: center; line-height: 30px; color: rgb(211, 219, 228); font-weight: bold; font-size: 20px;"><i class="icon-circle-arrow-up"></i></div>
+<div class="verdictPrototypeDiv" style="display: none;"></div>
+
+<!-- Codeforces JavaScripts. -->
+<script type="text/javascript">
+    String.prototype.hashCode = function() {
+        var hash = 0, i, chr;
+        if (this.length === 0) return hash;
+        for (i = 0; i < this.length; i++) {
+            chr   = this.charCodeAt(i);
+            hash  = ((hash << 5) - hash) + chr;
+            hash |= 0; // Convert to 32bit integer
+        }
+        return hash;
+    };
+
+    var queryMobile = Codeforces.queryString.mobile;
+    if (queryMobile === "true" || queryMobile === "false") {
+        Codeforces.putToStorage("useMobile", queryMobile === "true");
+    } else {
+        var useMobile = Codeforces.getFromStorage("useMobile");
+        if (useMobile === true || useMobile === false) {
+            if (useMobile != false) {
+                Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", useMobile));
+            }
+        }
+    }
+</script>
+
+<script type="text/javascript">
+    if (window.parent.frames.length > 0) {
+        window.stop();
+    }
+</script>
+
+
+
+
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+    (function () {
+        jQuery.expr[':'].containsCI = function(elem, index, match) {
+            return !match || !match.length || match.length < 4 || !match[3] || (
+                    elem.textContent || elem.innerText || jQuery(elem).text() || ''
+            ).toLowerCase().indexOf(match[3].toLowerCase()) >= 0;
+        }
+    }(jQuery));
+
+    $.ajaxPrefilter(function(options, originalOptions, xhr) {
+        var csrf = Codeforces.getCsrfToken();
+
+        if (csrf) {
+            var data = originalOptions.data;
+            if (originalOptions.data !== undefined) {
+                if (Object.prototype.toString.call(originalOptions.data) === '[object String]') {
+                    data = $.deparam(originalOptions.data);
+                }
+            } else {
+                data = {};
+            }
+            options.data = $.param($.extend(data, { csrf_token: csrf }));
+        }
+    });
+
+    window.getCodeforcesServerTime = function(callback) {
+        $.post("/data/time", {}, callback, "json");
+    }
+
+    window.updateTypography = function () {
+        $("div.ttypography code").addClass("tt");
+        $("div.ttypography pre>code").addClass("prettyprint").removeClass("tt");
+        $("div.ttypography table").addClass("bordertable");
+        prettyPrint();
+    }
+
+    $.ajaxSetup({ scriptCharset: "utf-8" ,contentType: "application/x-www-form-urlencoded; charset=UTF-8", headers: {
+        'X-Csrf-Token': Codeforces.getCsrfToken()
+    }});
+
+    window.updateTypography();
+
+    Codeforces.signForms();
+
+    setTimeout(function() {
+        $(".second-level-menu-list").lavaLamp({
+            fx: "backout",
+            speed: 700
+        });
+    }, 100);
+
+
+    Codeforces.countdown();
+    $("a[rel='photobox']").colorbox();
+
+
+    function showAnnouncements(json) {
+        //info("j=" + JSON.stringify(json));
+
+        if (json.t != "a") {
+            return;
+        }
+
+        setTimeout(function() {
+            Codeforces.showAnnouncements(json.d, "en");
+        }, Math.random() * 500);
+    }
+
+    function showEventCatcherUserMessage(json) {
+        if (json.t == "s") {
+            var points = json.d[5];
+            var passedTestCount = json.d[7];
+            var judgedTestCount = json.d[8];
+            var verdict = preparedVerdictFormats[json.d[12]];
+            var verdictPrototypeDiv = $(".verdictPrototypeDiv");
+            verdictPrototypeDiv.html(verdict);
+            if (judgedTestCount != null && judgedTestCount != undefined) {
+                verdictPrototypeDiv.find(".verdict-format-judged").text(judgedTestCount);
+            }
+            if (passedTestCount != null && passedTestCount != undefined) {
+                verdictPrototypeDiv.find(".verdict-format-passed").text(passedTestCount);
+            }
+            if (points != null && points != undefined) {
+                verdictPrototypeDiv.find(".verdict-format-points").text(points);
+            }
+            Codeforces.showMessage(verdictPrototypeDiv.text());
+        }
+    }
+
+    $(".clickable-title").each(function() {
+        var title = $(this).attr("data-title");
+        if (title) {
+            var tmp = document.createElement("DIV");
+            tmp.innerHTML = title;
+            $(this).attr("title", tmp.textContent || tmp.innerText || "");
+        }
+    });
+
+    $(".clickable-title").click(function() {
+        var title = $(this).attr("data-title");
+        if (title) {
+            Codeforces.alert(title);
+        } else {
+            Codeforces.alert($(this).attr("title"));
+        }
+    }).css("position", "relative").css("bottom", "3px");
+
+        Codeforces.showDelayedMessage();
+
+    Codeforces.reformatTimes();
+
+    //Codeforces.initializePubSub();
+    if (window.codeforcesOptions.subscribeServerUrl) {
+        window.eventCatcher = new EventCatcher(
+            window.codeforcesOptions.subscribeServerUrl,
+            [
+                Codeforces.getGlobalChannel(),
+                Codeforces.getUserChannel(),
+                Codeforces.getUserShowMessageChannel(),
+                Codeforces.getContestChannel(),
+                Codeforces.getParticipantChannel(),
+                Codeforces.getTalkChannel()
+            ]
+        );
+
+        if (Codeforces.getParticipantChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getParticipantChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getContestChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getContestChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getGlobalChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getGlobalChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getUserChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getUserChannel(), function(json) {
+                showAnnouncements(json);
+            });
+        }
+
+        if (Codeforces.getUserShowMessageChannel()) {
+            window.eventCatcher.subscribe(Codeforces.getUserShowMessageChannel(), function(json) {
+                showEventCatcherUserMessage(json);
+            });
+        }
+    }
+
+    Codeforces.setupContestTimes("/data/contests");
+    Codeforces.setupSpoilers();
+    Codeforces.setupTutorials("/data/problemTutorial");
+        });
+    </script>
+
+
+<div id="body">
+        
+
+<div class="side-bell" style="visibility: hidden; display: none; opacity: 0.7; width: 40px; position: fixed; right: 0; top: 0; cursor: pointer; text-align: center; line-height: 35px; color: #d3dbe4; font-weight: bold; font-size: 1.5rem;">
+    <span class="icon-stack" style="width: 100%;">
+        <i class="icon-circle icon-stack-base"></i>
+        <i class="icon-bell-alt icon-light"></i>
+    </span>
+    <br>
+    <span class="side-bell__count" style="position: relative; top: -10px;"></span>
+</div>
+
+
+<div id="header" style="position: relative;">
+    <div style="float:left; max-height: 60px;">
+                    <a href="/"><img height="65" style="height: 65px;" alt="Codeforces" title="Codeforces" src="//codeforces.org/s/78493/images/codeforces-sponsored-by-ton.png"></a>
+    </div>
+    <div class="lang-chooser">
+        <div style="text-align: right;">
+            <a href="?locale=en"><img src="//codeforces.org/s/78493/images/flags/24/gb.png" title="In English" alt="In English"></a>
+            <a href="?locale=ru"><img src="//codeforces.org/s/78493/images/flags/24/ru.png" title="По-русски" alt="По-русски"></a>
+        </div>
+
+        <div>
+                        <a href="/enter?back=%2Fprofile%2Fdhruvil_9198">Enter</a>
+                     | 
+                        <a href="/register">Register</a>
+                    
+        </div>
+
+
+
+    </div>
+    <br style="clear: both;">
+</div>
+        
+
+
+    <div class="roundbox menu-box borderTopRound borderBottomRound" style="">
+    <div class="menu-list-container">
+    <ul class="menu-list main-menu-list">
+                <li class=""><a href="/">Home</a></li>
+                <li class=""><a href="/top">Top</a></li>
+                <li class=""><a href="/catalog">Catalog</a></li>
+                <li class=""><a href="/contests">Contests</a></li>
+                <li class=""><a href="/gyms">Gym</a></li>
+                <li class=""><a href="/problemset">Problemset</a></li>
+                <li class=""><a href="/groups">Groups</a></li>
+                <li class=""><a href="/ratings">Rating</a></li>
+                <li class=""><a href="/edu/courses"><span class="edu-menu-item">Edu</span></a></li>
+                <li class=""><a href="/apiHelp">API</a></li>
+                <li class=""><a href="/calendar">Calendar</a></li>
+                <li class=""><a href="/help">Help</a></li>
+    </ul>
+        <form method="post" action="/search"><input type="hidden" name="csrf_token" value="b353a27e5ca43af28f97745c1e5df1ee">
+            <input class="search" name="query" data-isplaceholder="true" value="">
+        <input type="hidden" name="_tta" value="106"></form>
+    <br style="clear: both;">
+</div>
+
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("input.search").focus(function () {
+                if ($(this).attr("data-isPlaceholder") === "true") {
+                    $(this).val("");
+                    $(this).removeAttr("data-isPlaceholder");
+                }
+            });
+        });
+    </script>
+            <br style="height: 3em; clear: both;">
+
+        <div style="position: relative;">
+                        <div id="sidebar">
+
+    <div class="roundbox sidebox borderTopRound " style="">
+        <div class="caption titled">→ Pay attention
+            <div class="top-links">
+            </div>
+        </div>
+<div style="padding: 0.5em;">
+        <div style="text-align:center;">
+            <span class="contest-state-phase">Before contest</span><br><a href="/contests/1997">Educational Codeforces Round 168 (Rated for Div. 2)</a><br><span class="countdown" home="//codeforces.org/s/78493" noredirection="true" textbeforeredirect="" cdid="i1">26:19:26</span><br><a href="/contestRegistration/1997">Register now »</a>
+        </div>
+</div>
+    </div>
+
+<style data-nocturne="true" type="text/css">
+._StreamsSidebarFrame_frame {
+  padding: 0.5em 0.5em 0 0.5em;
+}
+._StreamsSidebarFrame_frame ._StreamsSidebarFrame_stream {
+  text-align: center;
+  border-bottom: 1px solid #b9b9b9;
+  margin: 0 -0.5em 0.5em -0.5em;
+  padding: 0 1em 0.5em 1em;
+}
+._StreamsSidebarFrame_frame ._StreamsSidebarFrame_stream ._StreamsSidebarFrame_user {
+  margin: 0 0 0.5em 0;
+  font-size: 0.8em;
+}
+._StreamsSidebarFrame_frame ._StreamsSidebarFrame_stream ._StreamsSidebarFrame_timeMark {
+  color: #777;
+  font-size: 0.9em;
+}
+._StreamsSidebarFrame_frame ._StreamsSidebarFrame_stream:last-of-type {
+  border-bottom: unset;
+  margin: unset;
+  padding: 0 0.5em 0.5em 1em;
+}
+._StreamsSidebarFrame_frame ._viewAll {
+  text-align: right;
+}
+.moreRunningStreamsSidebarNote {
+  color: #777 !important;
+  text-decoration: none;
+}
+</style>
+
+
+
+
+    <div class="roundbox sidebox borderTopRound " style="">
+        <div class="caption titled">→ Streams
+            <div class="top-links">
+            </div>
+        </div>
+            <div class="_StreamsSidebarFrame_frame">
+                    <div class="_StreamsSidebarFrame_stream">
+                        <div class="_StreamsSidebarFrame_name">
+        <p class="_englishName _name">
+            
+            <a href="/stream/651">CF Edu Round 168 Solution Discussion</a>
+        </p>
+
+                        </div>
+
+                        <div class="_StreamsSidebarFrame_user">
+                            By <a href="/profile/aryanc403" title="International Master aryanc403" class="rated-user user-orange">aryanc403</a>
+                        </div>
+
+                            <div class="_StreamsSidebarFrame_countdown _StreamsSidebarFrame_timeMark">
+                                Before stream
+                                <span class="countdown" noredirection="true" cdid="i2">28:29:25</span>
+                            </div>
+                    </div>
+            </div>
+            <div class="bottom-links">
+                <table style="width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:left;">
+                            </td>
+                            <td style="text-align:right;">
+                                    <a href="/streams">View all →</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+
+<script data-nocturne="true"> $(function () {
+
+}); </script>
+
+<div class="roundbox sidebox top-contributed borderTopRound " style="">
+<div class="caption titled">→ Top rated
+<div class="top-links">
+</div>
+</div>
+<table class="rtable ">
+<tbody>
+<tr>
+<th class="left" style="width:2.25em;">#</th>
+<th class="">User</th>
+<th class="" style="width:5em;">Rating</th>
+</tr>
+<tr>
+<td class="left dark">1</td>
+<td class=" dark"><a href="/profile/tourist" title="Legendary Grandmaster tourist" class="rated-user user-legendary"><span class="legendary-user-first-letter">t</span>ourist</a></td>
+<td class=" dark">3947</td>
+</tr>
+<tr>
+<td class="left ">2</td>
+<td class=""><a href="/profile/ecnerwala" title="Legendary Grandmaster ecnerwala" class="rated-user user-legendary"><span class="legendary-user-first-letter">e</span>cnerwala</a></td>
+<td class="">3654</td>
+</tr>
+<tr>
+<td class="left dark">3</td>
+<td class=" dark"><a href="/profile/jiangly" title="Legendary Grandmaster jiangly" class="rated-user user-legendary"><span class="legendary-user-first-letter">j</span>iangly</a></td>
+<td class=" dark">3627</td>
+</tr>
+<tr>
+<td class="left ">4</td>
+<td class=""><a href="/profile/jqdai0815" title="Legendary Grandmaster jqdai0815" class="rated-user user-legendary"><span class="legendary-user-first-letter">j</span>qdai0815</a></td>
+<td class="">3621</td>
+</tr>
+<tr>
+<td class="left dark">5</td>
+<td class=" dark"><a href="/profile/orzdevinwang" title="Legendary Grandmaster orzdevinwang" class="rated-user user-legendary"><span class="legendary-user-first-letter">o</span>rzdevinwang</a></td>
+<td class=" dark">3612</td>
+</tr>
+<tr>
+<td class="left ">6</td>
+<td class=""><a href="/profile/Benq" title="Legendary Grandmaster Benq" class="rated-user user-legendary"><span class="legendary-user-first-letter">B</span>enq</a></td>
+<td class="">3587</td>
+</tr>
+<tr>
+<td class="left dark">7</td>
+<td class=" dark"><a href="/profile/Radewoosh" title="Legendary Grandmaster Radewoosh" class="rated-user user-legendary"><span class="legendary-user-first-letter">R</span>adewoosh</a></td>
+<td class=" dark">3582</td>
+</tr>
+<tr>
+<td class="left ">8</td>
+<td class=""><a href="/profile/Geothermal" title="Legendary Grandmaster Geothermal" class="rated-user user-legendary"><span class="legendary-user-first-letter">G</span>eothermal</a></td>
+<td class="">3569</td>
+</tr>
+<tr>
+<td class="left dark">8</td>
+<td class=" dark"><a href="/profile/cnnfls_csy" title="Legendary Grandmaster cnnfls_csy" class="rated-user user-legendary"><span class="legendary-user-first-letter">c</span>nnfls_csy</a></td>
+<td class=" dark">3569</td>
+</tr>
+<tr>
+<td class="left bottom">10</td>
+<td class="bottom"><a href="/profile/ksun48" title="Legendary Grandmaster ksun48" class="rated-user user-legendary"><span class="legendary-user-first-letter">k</span>sun48</a></td>
+<td class="bottom">3474</td>
+</tr>
+</tbody>
+</table>
+<div class="bottom-links">
+<table style="width:100%;">
+<tbody>
+<tr>
+<td style="text-align:left;">
+<a href="/ratings/countries">Countries</a> |
+<a href="/ratings/cities">Cities</a> |
+<a href="/ratings/organizations">Organizations</a>
+</td>
+<td style="text-align:right;">
+<a href="/ratings">View all →</a>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div><div class="roundbox sidebox top-contributed borderTopRound " style="">
+        <div class="caption titled">→ Top contributors
+            <div class="top-links">
+            </div>
+        </div>
+        <table class="rtable ">
+            <tbody>
+                <tr>
+                            <th class="left" style="width:2.25em;">#</th>
+                            <th class="">User</th>
+                            <th class="" style="width:5em;">Contrib.</th>
+                </tr>
+                    <tr>
+                                <td class="left  dark">1</td>
+                                <td class=" dark"><a href="/profile/awoo" title="Grandmaster awoo" class="rated-user user-red">awoo</a></td>
+                                <td class=" dark">161</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">2</td>
+                                <td class=""><a href="/profile/maomao90" title="Grandmaster maomao90" class="rated-user user-red">maomao90</a></td>
+                                <td class="">160</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">3</td>
+                                <td class=" dark"><a href="/profile/adamant" title="International Master adamant" class="rated-user user-orange">adamant</a></td>
+                                <td class=" dark">156</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">4</td>
+                                <td class=""><a href="/profile/maroonrk" title="Legendary Grandmaster maroonrk" class="rated-user user-legendary"><span class="legendary-user-first-letter">m</span>aroonrk</a></td>
+                                <td class="">153</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">5</td>
+                                <td class=" dark"><a href="/profile/atcoder_official" title="Unrated, atcoder_official" class="rated-user user-black">atcoder_official</a></td>
+                                <td class=" dark">149</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">6</td>
+                                <td class=""><a href="/profile/-is-this-fft-" title="Grandmaster -is-this-fft-" class="rated-user user-red">-is-this-fft-</a></td>
+                                <td class="">148</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">6</td>
+                                <td class=" dark"><a href="/profile/SecondThread" title="International Master SecondThread" class="rated-user user-orange">SecondThread</a></td>
+                                <td class=" dark">148</td>
+                    </tr>
+                    <tr>
+                                <td class="left ">8</td>
+                                <td class=""><a href="/profile/Petr" title="Legendary Grandmaster Petr" class="rated-user user-legendary"><span class="legendary-user-first-letter">P</span>etr</a></td>
+                                <td class="">147</td>
+                    </tr>
+                    <tr>
+                                <td class="left  dark">9</td>
+                                <td class=" dark"><a href="/profile/nor" title="Master nor" class="rated-user user-orange">nor</a></td>
+                                <td class=" dark">144</td>
+                    </tr>
+                    <tr>
+                                <td class="left bottom">9</td>
+                                <td class="bottom"><a href="/profile/cry" title="International Master cry" class="rated-user user-orange">cry</a></td>
+                                <td class="bottom">144</td>
+                    </tr>
+            </tbody>
+        </table>
+            <div class="bottom-links">
+                <table style="width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:left;">
+                            </td>
+                            <td style="text-align:right;">
+                                    <a href="/top-contributed">View all →</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+        });
+    </script>
+
+
+    <div class="roundbox sidebox borderTopRound " style="">
+        <div class="caption titled">→ Find user
+            <div class="top-links">
+            </div>
+        </div>
+        <form class="handleForm" method="post" autocomplete="off"><input type="hidden" name="csrf_token" value="b353a27e5ca43af28f97745c1e5df1ee">
+            <div style="padding:1em;text-align:right;">
+                <label style="padding-right:1em;">Handle:
+                    <input style="width:12em;" type="text" class="handleBox ac_input" autocomplete="off">
+                </label>
+            </div>
+            <div style="padding: 0 1em 1em 1em;text-align:right;">
+                <input style="height:1.65em;padding:0 0.75em;" type="submit" value="Find">
+            </div>
+        <input type="hidden" name="_tta" value="106"></form>
+    </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+    $(".handleBox").autocomplete("/data/handles", {
+        delay: 200,
+        width: 200,
+        selectFirst: false,
+        matchContains: true,
+        minChars: 3
+    });
+    $(".handleForm").attr("autocomplete", "off").submit(function () {
+        var link = "/profile/userHandle".replace(
+            "userHandle", $(this).find(".handleBox").val()
+        );
+        window.location = link;
+        return false;
+    });
+        });
+    </script>
+
+
+
+
+
+    <div class="roundbox sidebox borderTopRound " style="">
+        <div class="caption titled">→ Recent actions
+            <div class="top-links">
+            </div>
+        </div>
+        <div class="recent-actions">
+            <ul>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/ZhouShang2003" title="International Grandmaster ZhouShang2003" class="rated-user user-red">ZhouShang2003</a>        →
+        <a href="/blog/entry/131796">Pinely Round 4 (Div. 1 + Div. 2)</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/MikeMirzayanov" title="Headquarters, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a>        →
+        <a href="/blog/entry/8790">Rule about third-party code is changing</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+        <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/ZhouShang2003" title="International Grandmaster ZhouShang2003" class="rated-user user-red">ZhouShang2003</a>        →
+        <a href="/blog/entry/132014">Pinely Round 4 (Div. 1 + Div. 2) Editorial</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/operator_" title="Master operator_" class="rated-user user-orange">operator_</a>        →
+        <a href="/blog/entry/132032">In Pinely Round 4 (Div. 1 + Div. 2)，my submission was hacked, but it passed again now</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/z_practices" title="Newbie z_practices" class="rated-user user-gray">z_practices</a>        →
+        <a href="/blog/entry/132036">[cheater report] exposing nxsang1611 I guess?</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/cry" title="International Master cry" class="rated-user user-orange">cry</a>        →
+        <a href="/blog/entry/131186">Invitation to Codeforces Round 962 (Div. 3)</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/DisconnectedGraph" title="International Master DisconnectedGraph" class="rated-user user-orange">DisconnectedGraph</a>        →
+        <a href="/blog/entry/132038">Same code gets diffrent verdict between C++17 and C++20</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/naivedyam" title="Pupil naivedyam" class="rated-user user-green">naivedyam</a>        →
+        <a href="/blog/entry/132042">CAN'T GET OVER THE SUBSET PROBLEM</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/cry" title="International Master cry" class="rated-user user-orange">cry</a>        →
+        <a href="/blog/entry/131528">Codeforces Round 962 (Div. 3) Editorial</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/Gyanpapi" title="Newbie Gyanpapi" class="rated-user user-gray">Gyanpapi</a>        →
+        <a href="/blog/entry/132020">Send help </a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/Yam" title="Grandmaster Yam" class="rated-user user-red">Yam</a>        →
+        <a href="/blog/entry/131526">TeamsCode Summer 2024 Virtual Programming Contest</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/pashka" title="International Grandmaster pashka" class="rated-user user-red">pashka</a>        →
+        <a href="/blog/entry/124757">Editorial for Codeforces Round 920 (Div. 3)</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/atcoder_official" title="Unrated, atcoder_official" class="rated-user user-black">atcoder_official</a>        →
+        <a href="/blog/entry/132045">Restructuring of contests</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/unforgettablepl" title="Candidate Master unforgettablepl" class="rated-user user-violet">unforgettablepl</a>        →
+        <a href="/blog/entry/132041">The SPOI Mentorship Program 2025</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/JustAkash21" title="Specialist JustAkash21" class="rated-user user-cyan">JustAkash21</a>        →
+        <a href="/blog/entry/131931">Easy But Difficult :`(</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/Petr" title="Legendary Grandmaster Petr" class="rated-user user-legendary"><span class="legendary-user-first-letter">P</span>etr</a>        →
+        <a href="/blog/entry/132044">An Eliška week</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/optimize_ofast" title="Newbie optimize_ofast" class="rated-user user-gray">optimize_ofast</a>        →
+        <a href="/blog/entry/132040">About how to improve my programming skills</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/SecondThread" title="International Master SecondThread" class="rated-user user-orange">SecondThread</a>        →
+        <a href="/blog/entry/131165">Meta Hacker Cup 2024 Schedule — Introducing the Meta Hacker Cup AI Track</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/robot-dreams" title="Candidate Master robot-dreams" class="rated-user user-violet">robot-dreams</a>        →
+        <a href="/blog/entry/66715">Improving efficiently: beyond "just solve more problems"?</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+        <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/luogu_official" title="Unrated, luogu_official" class="rated-user user-black">luogu_official</a>        →
+        <a href="/blog/entry/132031">【LGR-195】Luogu Round 195 Announcement</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/adaptatron" title="Newbie adaptatron" class="rated-user user-gray">adaptatron</a>        →
+        <a href="/blog/entry/132039">[Video + Contest] : The connection between modulo 4 and Xor from 1 to N and counting set bits</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/shiny_shine" title="Expert shiny_shine" class="rated-user user-blue">shiny_shine</a>        →
+        <a href="/blog/entry/132027">What I've learnt from Pinely Round 4</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/Noobish_Monk" title="International Master Noobish_Monk" class="rated-user user-orange">Noobish_Monk</a>        →
+        <a href="/blog/entry/131461">Codeforces Round 957 Editorial</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/Arpa" title="International Master Arpa" class="rated-user user-orange">Arpa</a>        →
+        <a href="/blog/entry/114356">Ten years of competitive programming 3</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+        <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/KAN" title="Legendary Grandmaster KAN" class="rated-user user-legendary"><span class="legendary-user-first-letter">K</span>AN</a>        →
+        <a href="/blog/entry/85259">How to set a Div. 1 or a Div. 2 round on Codeforces</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+        <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
+</div>
+</li>
+            </ul>
+        </div>
+            <div class="bottom-links">
+                <table style="width:100%;">
+                    <tbody>
+                        <tr>
+                            <td style="text-align:left;">
+                            </td>
+                            <td style="text-align:right;">
+                                    <a href="/recent-actions">Detailed →</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    </div>
+</div>
+                        <div id="pageContent" class="content-with-sidebar">
+                    <div class="second-level-menu">
+<ul class="second-level-menu-list"><li class="backLava" style="position: absolute; display: block; margin: 0px; padding: 0px; left: 0px; top: 0px; width: 82px; height: 20px;"><div class="leftLava"></div><div class="bottomLava"></div><div class="cornerLava"></div></li>
+        <li class="selectedLava"><a href="/profile/dhruvil_9198">dhruvil_9198</a></li>
+        <li><a href="/blog/dhruvil_9198">Blog</a></li>
+        <li><a href="/teams/with/dhruvil_9198">Teams</a></li>
+        <li><a href="/submissions/dhruvil_9198">Submissions</a></li>
+        <li><a href="/contests/with/dhruvil_9198">Contests</a></li>
+</ul>
+</div>
+
+<style>
+    .userbox {
+        overflow: hidden;
+    }
+    .userbox .info {
+        margin-right: 375px;
+        /*padding-top: 1em;*/
+        min-height: 20em;
+        margin-bottom: 1em;
+    }
+    .userbox .info li {
+        margin: 0.5em 0 1em 0;
+    }
+    .userbox input {
+        color: black;
+        height: 2em;
+        line-height: 1.5em;
+        font-size: 0.75em;
+        margin: 0.5em 0.5em 0.5em 0;
+    }
+
+    .userbox .main-info {
+        margin-bottom: 1em;
+    }
+
+    .userbox .badge {
+        position: relative;
+        right: 2px;
+        bottom: 4px;
+    }
+
+    .userbox .main-info-has-badge {
+        margin-bottom: 0.5em !important;
+        position: absolute;
+        left: 90px;
+        top: 0;
+    }
+
+    .userbox h1 {
+        font-size: 2.5rem;
+    }
+
+    .userbox h1.long_handle {
+        font-size: 2rem;
+    }
+
+    .userbox .user-rank {
+        font-size: 1.4rem;
+        font-weight: bold;
+    }
+
+    .userbox .friendStar {
+        position: relative;
+        top: 4px !important;
+    }
+</style>
+
+
+
+    <div class="roundbox  borderTopRound borderBottomRound" style="padding:1em 1em 0 1em;">
+    <div class="userbox">
+
+<style>
+    .title-photo input.upload-photo {
+        color: black;
+        height: 2em;
+        line-height: 1.5em;
+        font-size: 0.75em;
+        margin: 0.5em 0.5em 0.5em 0;
+    }
+    .title-photo .badge {
+        position: absolute;
+        bottom: -30px;
+        transform: scale(0.75);
+    }
+</style>
+
+<div class="title-photo">
+    <div style="float:right;border:1px solid #B9B9B9;width:300px;min-height:150px;padding:12.5px;position: relative;margin-bottom: 1em;">
+    <div>
+        <div style="min-height:200px;line-height:200px;text-align:center;">
+<img style="margin:auto;vertical-align:middle;display:inline;" src="https://userpic.codeforces.org/no-title.jpg">        </div>
+    </div>
+    </div>
+</div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+    function showChangeTitlePhotoForm() {
+        $("#change-title-photo").parent().hide();
+        $(".change-title-photo-form").slideDown();
+    }
+
+    $("input.upload-photo").click(function () {
+        Codeforces.confirm(
+            "Image can't contain offensive, rough or uncultured things. Also it can't contain anyone photo except you.\n\nDo you confirm that the image meets these criteria?",
+            function () {
+                $(".change-title-photo-form form").submit();
+            },
+            function () { },
+            "Yes",
+            "No"
+        );
+        return false;
+    });
+
+    $("#change-title-photo").click(function () {
+        showChangeTitlePhotoForm();
+    });
+
+        });
+    </script>
+        <div class="info" style="position: relative;">
+            <div class="main-info ">
+                <div class="user-rank">
+                    <span class="user-gray">Newbie </span>
+                </div>
+                <h1>
+<a href="/profile/dhruvil_9198" title="Newbie dhruvil_9198" class="rated-user user-gray">dhruvil_9198</a>                </h1>
+
+            <div style="margin-top: 0.5em;">
+                <div style="font-size: 0.8em; color: #777;">Dhruvilsinh Mahida, <a href="/ratings/country/India/city/Surat">Surat</a>, <a href="/ratings/country/India">India</a></div>
+                <div style="font-size: 0.8em; color: #777;">From <a href="/ratings/organization/3081">DAIICT</a></div>
+            </div>
+            </div>
+            <ul>
+                    <li>
+                            <img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/rating-24x24.png" alt="User''s contest rating in Codeforces community" title="User''s contest rating in Codeforces community">
+                        
+                            Contest rating:
+
+                        <span style="font-weight:bold;" class="user-gray">947</span> <span class="smaller"> (max. <span style="font-weight:bold;" class="user-gray">newbie, </span> <span style="font-weight:bold;" class="user-gray">995</span>)</span>                    </li>
+                    <li>
+                            <img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/star_blue_24.png" alt="User''s contribution into Codeforces community" title="User''s contribution into Codeforces community">
+                        
+                            Contribution:
+
+                        <span style="color:gray;font-weight:bold;">0</span>                    </li>
+                    <li>
+                            <img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/star_yellow_24.png">
+                        
+
+                        Friend of: 16 users                    </li>
+                    <li>
+                        
+                            Last visit:
+
+                        <span style="color:green;font-weight:bold;">online now</span>                    </li>
+                    <li>
+                        
+                            Registered:
+
+                        <span class="format-humantime" title="Nov/04/2023 16:54 UTC+5.5">9 months ago</span>                    </li>
+                    <li>
+                            <a href="/blog/dhruvil_9198"><img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/blog.png" alt="dhruvil_9198's blog" title="dhruvil_9198's blog"></a>
+                        
+
+                        <a href="/blog/dhruvil_9198">Blog entries (0)</a>,
+                                    <a href="/comments/with/dhruvil_9198">comments</a>
+                    </li>
+                    <li>
+                            <a href="/usertalk/with/dhruvil_9198"><img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/actions/mail_generic.png" alt="Your talks with dhruvil_9198" title="Your talks with dhruvil_9198"></a>
+                        
+
+                        <a href="/usertalk/with/dhruvil_9198">Talks</a> |
+                                    <a href="/usertalk?other=dhruvil_9198">Send message</a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+    function updateFriendClickListeners() {
+        $("img.removeFriend").click(function () {
+            var img = $(this);
+            var friendUserId = img.attr("friendUserId");
+
+            $.post("/data/friend", {friendUserId: friendUserId, isAdd: "false"}, function(json) {
+                if (json["success"] === "true") {
+                    var newImg = img.clone().removeClass("removeFriend").addClass("addFriend");
+                    newImg.attr("src", "//codeforces.org/s/78493/images/icons/star_gray_24.png");
+                    newImg.attr("title", "Click to add to users you are following");
+                    img.css("display", "none");
+                    img.after(newImg);
+                    updateFriendClickListeners();
+                } else {
+                    alert(json["reason"]);
+                }
+            }, "json");
+            return false;
+        });
+
+        $("img.addFriend").click(function () {
+            var img = $(this);
+            var friendUserId = img.attr("friendUserId");
+            $.post("/data/friend", {friendUserId: friendUserId, isAdd: "true"}, function(json) {
+                if (json["success"] === "true") {
+                    var newImg = img.clone().removeClass("addFriend").addClass("removeFriend");
+                    newImg.attr("src", "//codeforces.org/s/78493/images/icons/star_yellow_24.png");
+                    newImg.attr("title", "Click to remove from users you are following");
+                    img.css("display", "none");
+                    img.after(newImg);
+                    updateFriendClickListeners();
+                } else {
+                    alert(json["reason"]);
+                }
+            }, "json");
+            return false;
+        });
+    }
+
+    updateFriendClickListeners();
+        });
+    </script>
+
+<form class="trust-user-form-proto"><input type="hidden" name="csrf_token" value="b353a27e5ca43af28f97745c1e5df1ee">
+    <input class="trust-user-form-checkbox" type="checkbox">
+    <i class="icon-question-sign clickable-title" data-title="<div class='ttypography'>
+<p>
+This user does not have permission to perform one or more actions from the list:
+</p>
+<ul>
+<li>write blog posts/comments,</li>
+<li>create mashups,</li>
+<li>create private groups.</li>
+</ul>
+<p>You can confirm that you know the user personally and guarantee reasonableness and adequacy. In this case, you can grant him rights by noting your trust.
+</p>
+<p>In case of violation of any rules of the site, administrative penalties can be applied to you (up to the ban). Think twice before confirming your trust.</p>
+<p>You can review the list of people you trust by <a href='/trustList'>the link</a>.
+</p></div>" title="
+
+This user does not have permission to perform one or more actions from the list:
+
+
+write blog posts/comments,
+create mashups,
+create private groups.
+
+You can confirm that you know the user personally and guarantee reasonableness and adequacy. In this case, you can grant him rights by noting your trust.
+
+In case of violation of any rules of the site, administrative penalties can be applied to you (up to the ban). Think twice before confirming your trust.
+You can review the list of people you trust by the link.
+" style="position: relative; bottom: 3px;"></i>
+<input type="hidden" name="_tta" value="106"></form>
+
+<style>
+    .trust-user-form-proto {
+        display: none;
+    }
+
+    .trust-user-form, .trust-user-form form {
+        display: inline;
+        padding: 0;
+        margin: 0;
+        line-height: 1rem;
+    }
+
+    .trust-user-form input {
+        padding: 0;
+        margin: 0;
+        position: relative;
+        top: 7px;
+    }
+</style>
+
+<script>
+    $(function () {
+        $(".trust-user-form").each(function () {
+            var p = $(".trust-user-form-proto").clone(true, true).removeClass("trust-user-form-proto");
+            $(".trust-user-form").append(p);
+            var checked = $(this).attr("data-value") === "true";
+            $(".trust-user-form input").each(function() {
+                $(this).prop('checked', checked);
+            }).change(function () {
+                var title = $(".trust-user-form .clickable-title").attr("data-title");
+                var $this = $(this);
+                var value = $this.prop('checked');
+                if (value) {
+                    Codeforces.confirm(title + " <br/><b>Are you sure you want to trust the user?</b>", function () {
+                        $.post("/data/trusts", {
+                            action: "change",
+                            targetUserId: 3597211,
+                            value: value
+                        }, function (result) {
+                            if (result["success"] === "true") {
+                                Codeforces.reload();
+                            }
+                        }, "json");
+                        $this.prop("checked", value);
+                    }, function() {}, "Yes", "No");
+                } else {
+                    Codeforces.confirm("Are you sure you want to remove the user from your trust list?", function () {
+                        $.post("/data/trusts", {
+                            action: "change",
+                            targetUserId: 3597211,
+                            value: value
+                        }, function (result) {
+                            if (result["success"] === "true") {
+                                Codeforces.reload();
+                            }
+                        }, "json");
+                        $this.prop("checked", value);
+                    }, function() {}, "Yes", "No");
+                }
+                $this.prop("checked", checked);
+                return false;
+            });
+        });
+    })
+</script>
+
+    </div>
+
+    
+<style data-nocturne="true" type="text/css">
+
+</style>
+
+
+    <div class="roundbox  borderTopRound borderBottomRound" style="padding:2em 1em 0 1em;margin-top:1em;">
+        <div class="notice zoomTip" style="display:none;margin-left:4em;float:left;position:relative;text-align:left;bottom:1em;right:0.6em;font-size:1.0rem;">
+            Click on the graph to enable the zoom feature.
+        </div>
+
+        <div style="float:right;position:relative;text-align:right;bottom:2em;right:6px;font-size:1.0rem;">
+            <form action="" method="get" id="typeSelectForm">
+                <label>
+                    <select name="graphType" style="font-size:1.0rem !important;padding:1px;">
+                        <option value="rated" selected="">Only rated</option>
+                        <option value="all">All</option>
+                    </select>
+                </label>
+            </form>
+        </div>
+
+        <div id="usersRatingGraphPlaceholder" style="width: 100%; height: 300px; padding: 0px; position: relative;"><canvas class="flot-base" width="568" height="300" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 568px; height: 300px;"></canvas><div class="flot-text" style="position: absolute; inset: 0px; font-size: smaller; color: rgb(84, 84, 84);"><div class="flot-x-axis flot-x1-axis xAxis x1Axis" style="position: absolute; inset: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 50px; text-align: center;">01 Feb 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 127px; text-align: center;">01 Mar 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 210px; text-align: center;">01 Apr 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 289px; text-align: center;">01 May 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 372px; text-align: center;">01 Jun 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 452px; text-align: center;">01 Jul 2024</div></div><div class="flot-y-axis flot-y1-axis yAxis y1Axis" style="position: absolute; inset: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; top: 119px; left: 2px; text-align: right;">1200</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 89px; left: 2px; text-align: right;">1400</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 60px; left: 2px; text-align: right;">1600</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 16px; left: 2px; text-align: right;">1900</div></div></div><canvas class="flot-overlay" width="568" height="300" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 568px; height: 300px;"></canvas><div class="legend"><div style="position: absolute; width: 95px; height: 14px; top: 13px; right: 13px; background-color: rgb(255, 255, 255); opacity: 0.85;"> </div><table style="position:absolute;top:13px;right:13px;;font-size:smaller;color:#545454"><tbody><tr><td class="legendColorBox"><div style="border:1px solid #ccc;padding:1px"><div style="width:4px;height:0;border:5px solid rgb(237,194,64);overflow:hidden"></div></div></td><td class="legendLabel">dhruvil_9198</td></tr></tbody></table></div></div>
+    </div>
+
+<script data-nocturne="true"> $(function () {
+    $("#typeSelectForm select").change(function() {
+        $("#typeSelectForm").submit();
+    });
+
+    var data = [];
+
+    data.push([
+            [
+                1705156500000,
+                357,
+                1920,
+                "Codeforces Round 919 (Div. 2)",
+                "",
+                357,
+                15787,
+                "/contest/1920/standings/participant/171718114#p171718114",
+                "newbie",
+                "newbie",
+                "12311622",
+                "Codeforces Round 919 (Div. 2)",
+                "<span class=\"format-time\" data-locale=\"en\">Jan/13/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=13&month=1&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1705329300000,
+                610,
+                1921,
+                "Codeforces Round 920 (Div. 3)",
+                "",
+                253,
+                17655,
+                "/contest/1921/standings/participant/172011333#p172011333",
+                "newbie",
+                "newbie",
+                "12329880",
+                "Codeforces Round 920 (Div. 3)",
+                "<span class=\"format-time\" data-locale=\"en\">Jan/15/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=15&month=1&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1707834900000,
+                785,
+                1931,
+                "Codeforces Round 925 (Div. 3)",
+                "",
+                175,
+                17416,
+                "/contest/1931/standings/participant/174127821#p174127821",
+                "newbie",
+                "newbie",
+                "12668976",
+                "Codeforces Round 925 (Div. 3)",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/13/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=13&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1708180500000,
+                925,
+                1930,
+                "think-cell Round 1",
+                "",
+                140,
+                7475,
+                "/contest/1930/standings/participant/174450924#p174450924",
+                "newbie",
+                "newbie",
+                "12702854",
+                "think-cell Round 1",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/17/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=17&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1708257900000,
+                984,
+                1932,
+                "Codeforces Round 927 (Div. 3)",
+                "",
+                59,
+                10653,
+                "/contest/1932/standings/participant/174565597#p174565597",
+                "newbie",
+                "newbie",
+                "12884959",
+                "Codeforces Round 927 (Div. 3)",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/18/2024 15:05<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=18&month=2&year=2024&hour=15&min=5&sec=0&p1=166"
+            ]
+            ,
+            [
+                1722004500000,
+                995,
+                1996,
+                "Codeforces Round 962 (Div. 3)",
+                "",
+                11,
+                16439,
+                "/contest/1996/standings/participant/187668497#p187668497",
+                "newbie",
+                "newbie",
+                "14485243",
+                "Codeforces Round 962 (Div. 3)",
+                "<span class=\"format-time\" data-locale=\"en\">Jul/26/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=26&month=7&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1722177300000,
+                947,
+                1991,
+                "Pinely Round 4 (Div. 1 + Div. 2)",
+                "",
+                -48,
+                12354,
+                "/contest/1991/standings/participant/187857344#p187857344",
+                "newbie",
+                "newbie",
+                "14507696",
+                "Pinely Round 4 (Div. 1 + Div. 2)",
+                "<span class=\"format-time\" data-locale=\"en\">Jul/28/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=28&month=7&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            
+    ]);
+    data.push([
+        [
+            1722004500000, 995
+        ]
+    ]);
+    {
+        var unrated = [];
+            unrated.push([1705156500000, 357,  15787]);
+            unrated.push([1705329300000, 610,  17655]);
+            unrated.push([1707834900000, 785,  17416]);
+            unrated.push([1708180500000, 925,  7475]);
+            unrated.push([1708257900000, 984,  10653]);
+            unrated.push([1722004500000, 995,  16439]);
+            unrated.push([1722177300000, 947,  12354]);
+        unrated = unrated.filter(x => x[2] < 0);
+        data.push(unrated);
+    }
+
+    var datas = [
+        {label: "dhruvil_9198", data: data[0]},
+        {clickable: false, hoverable: false, color: "red", data: data[1]},
+        {clickable: false, hoverable: false, color: "gray", data: data[2], lines: {show: false}}
+        
+    ];
+
+    var markings = [
+        { color: '#a00', lineWidth: 1, yaxis: { from: 3000 } },
+        { color: '#f33', lineWidth: 1, yaxis: { from: 2600, to: 2999 } },
+        { color: '#f77', lineWidth: 1, yaxis: { from: 2400, to: 2599 } },
+        { color: '#ffbb55', lineWidth: 1, yaxis: { from: 2300, to: 2399 } },
+        { color: '#ffcc88', lineWidth: 1, yaxis: { from: 2100, to: 2299 } },
+        { color: '#f8f', lineWidth: 1, yaxis: { from: 1900, to: 2099 } },
+        { color: '#aaf', lineWidth: 1, yaxis: { from: 1600, to: 1899 } },
+        { color: '#77ddbb', lineWidth: 1, yaxis: { from: 1400, to: 1599 } },
+        { color: '#7f7', lineWidth: 1, yaxis: { from: 1200, to: 1399 } },
+        { color: '#ccc', lineWidth: 1, yaxis: { from: 0, to: 1199 } },
+    ];
+
+    var options = {
+        lines: { show: true },
+        points: { show: true },
+        xaxis: {
+            mode: "time",
+            zoomRange: [172800000, null],
+            panRange: [1705156500000, 1722177300000],
+            timeformat: function () {
+                let minTimestamp = 1e18;
+                let maxTimestamp = -1e18;
+                for (let i = 0; i < data[0].length; i++) {
+                    minTimestamp = Math.min(minTimestamp, data[0][i][0]);
+                    maxTimestamp = Math.max(maxTimestamp, data[0][i][0]);
+                }
+                if (minTimestamp > maxTimestamp) {
+                    return null;
+                }
+
+                const deltaMillis = maxTimestamp - minTimestamp;
+                const days = deltaMillis / (1000 * 60 * 60 * 24);
+                const months = days / 30;
+                const years = deltaMillis / (1000 * 60 * 60 * 24 * 365);
+
+                if (years >= 7) {
+                    return "%Y";
+                } else if (years < 1 && months <= 7) {
+                    return "%d %b %Y"
+                } else {
+                    return "%b %Y";
+                }
+            }()
+        },
+        yaxis: {
+            min: 257,
+            max: 2000,
+            ticks: [1200, 1400, 1600, 1900, 2100, 2300, 2400, 2600, 3000],
+            zoomRange: [500, null],
+            panRange: [257, 2000]
+        },
+        grid: {
+            hoverable: true,
+            markings: markings
+        },
+        zoom: {
+            interactive: false
+        },
+        pan: {
+            interactive: false
+        }
+    };
+
+    var plot = $.plot($("#usersRatingGraphPlaceholder"), datas, options);
+    $(window).resize(function () {
+        plot.resize();
+        plot.setupGrid();
+        plot.draw();
+    });
+
+    function showTooltip(x, y, contents) {
+        $('<div id="tooltip">' + contents + '</div>').css( {
+            position: 'absolute',
+            display: 'none',
+            top: y - 20,
+            left: x + 10,
+            border: '1px solid #fdd',
+            padding: '2px',
+            'font-size' : '11px',
+            'background-color': '#fee',
+            opacity: 0.80
+        }).appendTo("body").fadeIn(200);
+    }
+
+    var ctx = plot.getCanvas().getContext("2d");
+
+    var prev = -1;
+    $("#usersRatingGraphPlaceholder").bind("plothover", function (event, pos, item) {
+        if (item) {
+            if (prev !== item.dataIndex) {
+                $("#tooltip").remove();
+                var params = data[item.seriesIndex][item.dataIndex];
+
+                var total = params[1];
+                var change = params[5] > 0 ? "+" + params[5] : params[5];
+                var contestName = params[11];
+                var contestStartTimeFormatted = "<a href='" + params[13] + "'>" + params[12] + "</a>";
+                var contestId = params[2];
+                var contestUrl = params[7];
+                var rank = params[6];
+                var title = params[8];
+
+                if (rank < 0) {
+                    change = "unrated";
+                }
+
+                var html = "= " + total + " (" + change + "), " + title + "<br/>"
+                    + (rank >= 0 ? "Rank: " + rank + "<br/>" : "")
+                    + "<a href='" + contestUrl + "'>" + contestName + "</a><br>" + contestStartTimeFormatted;
+                if (change > 0)
+                    html += "<br/><a style='font-weight: bold;' href=\"/bestRatingChanges/" + params[10] + "\">Share it!</a>";
+                showTooltip(item.pageX, item.pageY, html);
+                setTimeout(function () {
+                    $("#tooltip").fadeOut(200);
+                    prev = -1;
+                }, 4000);
+                prev = item.dataIndex;
+            }
+        }
+    });
+
+    $("#usersRatingGraphPlaceholder").click(function () {
+        options.zoom = {interactive:true};
+        options.pan = {interactive:true};
+
+        plot = $.plot($("#usersRatingGraphPlaceholder"), datas, options);
+        addScroll();
+
+        $("#usersRatingGraphPlaceholder").unbind("click");
+        $(".zoomTip").fadeOut();
+    });
+
+    var wheelEventsCount = 0;
+    $("#usersRatingGraphPlaceholder").mousewheel(function () {
+        wheelEventsCount += 1
+        if (wheelEventsCount > 3) {
+            $(".zoomTip").fadeIn();
+            $("#usersRatingGraphPlaceholder").off("mousewheel");
+        }
+    });
+
+    function addScroll(){
+        $("#usersRatingGraphPlaceholder").bind("plotpan plotzoom", function (event, plot) {
+            var axes = plot.getAxes();
+            plot.getOptions().xaxes[0].min = axes.xaxis.min;
+            plot.getOptions().xaxes[0].max = axes.xaxis.max;
+            plot.getOptions().yaxes[0].min = axes.yaxis.min;
+            plot.getOptions().yaxes[0].max = axes.yaxis.max;
+            plot.setupGrid();
+            plot.draw();
+        });
+    }
+}); </script>
+
+
+
+
+<style data-nocturne="true" type="text/css">
+.weeks52 {
+  right: calc(calc(3.606102635228849%) - 3px);
+}
+.weeks53 {
+  right: calc(calc(1.8030513176144245%) - 3px);
+}
+._UserActivityFrame_frame {
+  margin: 1em 0;
+}
+._UserActivityFrame_frame .userActivityRoundBox {
+  padding: 1em 1em 1em 1.5em;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_header {
+  margin: 0 0 0.7em 3.3%;
+  font-size: 0.8em;
+  color: #888;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_header ._UserActivityFrame_caption {
+  color: #888;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_header ._UserActivityFrame_selector {
+  float: right;
+  position: relative;
+  bottom: 2px;
+  text-align: right;
+  margin-left: 1em;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_footer {
+  margin: 0.7em 0 0 3.3%;
+  font-size: 2rem;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_footer ._UserActivityFrame_countersRow:first-child {
+  margin-bottom: 1em;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_footer ._UserActivityFrame_counter {
+  display: inline-block;
+  width: 30%;
+}
+._UserActivityFrame_frame .userActivityRoundBox ._UserActivityFrame_footer ._UserActivityFrame_counterDescription {
+  margin-top: 1px;
+  font-size: 0.55em;
+  color: #888;
+}
+._UserActivityFrame_frame .userActivityRoundBox #userActivityGraph {
+  font-size: 0.7em;
+}
+._UserActivityFrame_frame .userActivityRoundBox #userActivityGraph svg {
+  width: 100%;
+}
+._UserActivityFrame_frame .userActivityRoundBox #userActivityGraph svg text {
+  fill: #888;
+}
+</style>
+
+        <div class="_UserActivityFrame_frame">
+
+    <div class="roundbox userActivityRoundBox borderTopRound borderBottomRound" style="">
+
+                <div class="_UserActivityFrame_header">
+                    <span class="_UserActivityFrame_caption">
+                    </span>
+
+                        <div class="_UserActivityFrame_selector weeks53">
+                            <label>
+                                <select name="yearSelect" style="font-size: 1em !important">
+                                    <option value="" selected="">Choose year</option>
+                                        <option value="2024">2024</option>
+                                        <option value="2023">2023</option>
+                                </select>
+                            </label>
+                        </div>
+
+                </div>
+
+                <div id="userActivityGraph"><svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 721 110"><g transform="translate(25, 20)"><g transform="translate(0,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/30/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/31/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/01/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/02/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/03/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/04/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/05/2023"></rect></g><g transform="translate(13,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/06/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/07/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/08/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/09/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/10/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/11/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/12/2023"></rect></g><g transform="translate(26,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/13/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/14/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/15/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/16/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/17/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/18/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/19/2023"></rect></g><g transform="translate(39,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/20/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/21/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/22/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/23/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/24/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/25/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/26/2023"></rect></g><g transform="translate(52,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/27/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/28/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/29/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/30/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/31/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/01/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/02/2023"></rect></g><g transform="translate(65,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/03/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/04/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/05/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/06/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/07/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/08/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/09/2023"></rect></g><g transform="translate(78,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/10/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/11/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/12/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/13/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/14/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/15/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/16/2023"></rect></g><g transform="translate(91,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/17/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/18/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/19/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/20/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/21/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/22/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/23/2023"></rect></g><g transform="translate(104,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/24/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/25/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/26/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/27/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/28/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/29/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/30/2023"></rect></g><g transform="translate(117,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/01/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/02/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/03/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/04/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/05/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/06/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/07/2023"></rect></g><g transform="translate(130,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/08/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/09/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/10/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/11/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/12/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/13/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/14/2023"></rect></g><g transform="translate(143,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/15/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/16/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/17/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/18/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/19/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/20/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/21/2023"></rect></g><g transform="translate(156,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/22/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/23/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/24/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/25/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/26/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/27/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/28/2023"></rect></g><g transform="translate(169,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/29/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/30/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/31/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/01/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/02/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/03/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="11/04/2023"></rect></g><g transform="translate(182,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/05/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/06/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="11/07/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="11/08/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/09/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/10/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/11/2023"></rect></g><g transform="translate(195,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/12/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/13/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="11/14/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#91DA9E" data-items="1" data-date="11/15/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="11/16/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/17/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/18/2023"></rect></g><g transform="translate(208,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/19/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/20/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="11/21/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="11/22/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/23/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="11/24/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/25/2023"></rect></g><g transform="translate(221,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="11/26/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="11/27/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#91DA9E" data-items="1" data-date="11/28/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="11/29/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/30/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/01/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/02/2023"></rect></g><g transform="translate(234,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="12/03/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/04/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/05/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/06/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/07/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/08/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/09/2023"></rect></g><g transform="translate(247,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/10/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/11/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#91DA9E" data-items="1" data-date="12/12/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/13/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="12/14/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/15/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/16/2023"></rect></g><g transform="translate(260,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/17/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/18/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/19/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/20/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/21/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/22/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/23/2023"></rect></g><g transform="translate(273,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="12/24/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="12/25/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="12/26/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/27/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/28/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/29/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/30/2023"></rect></g><g transform="translate(286,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/31/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="01/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="01/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="01/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="01/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="01/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#40C463" data-items="2" data-date="01/06/2024"></rect></g><g transform="translate(299,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="01/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="01/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="01/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="01/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="01/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#91DA9E" data-items="1" data-date="01/13/2024"></rect></g><g transform="translate(312,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="01/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="01/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="01/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="01/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="01/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#30A14E" data-items="3" data-date="01/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="01/20/2024"></rect></g><g transform="translate(325,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="01/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="01/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#91DA9E" data-items="1" data-date="01/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="01/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="01/27/2024"></rect></g><g transform="translate(338,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="01/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/29/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="01/30/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="01/31/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#91DA9E" data-items="1" data-date="02/01/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="02/02/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/03/2024"></rect></g><g transform="translate(351,0)"><rect class="day" width="11" height="11" y="0" fill="#30A14E" data-items="3" data-date="02/04/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#91DA9E" data-items="1" data-date="02/05/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="02/06/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="02/07/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="02/08/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/09/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/10/2024"></rect></g><g transform="translate(364,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="02/11/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="02/12/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="02/13/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="02/14/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="02/15/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="02/16/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="02/17/2024"></rect></g><g transform="translate(377,0)"><rect class="day" width="11" height="11" y="0" fill="#30A14E" data-items="3" data-date="02/18/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="02/19/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="02/20/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="02/21/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#30A14E" data-items="3" data-date="02/22/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/23/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/24/2024"></rect></g><g transform="translate(390,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="02/25/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="02/26/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="02/27/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="02/28/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#91DA9E" data-items="1" data-date="02/29/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="03/01/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="03/02/2024"></rect></g><g transform="translate(403,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="03/03/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="03/04/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="03/05/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="03/06/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="03/07/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/08/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/09/2024"></rect></g><g transform="translate(416,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/10/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="03/11/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="03/12/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="03/13/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="03/14/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/15/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/16/2024"></rect></g><g transform="translate(429,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/17/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="03/18/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="03/19/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="03/20/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="03/21/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="03/22/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="03/23/2024"></rect></g><g transform="translate(442,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/24/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="03/25/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="03/26/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="03/27/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="03/28/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="03/29/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#40C463" data-items="2" data-date="03/30/2024"></rect></g><g transform="translate(455,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="03/31/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="04/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="04/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="04/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#30A14E" data-items="3" data-date="04/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#30A14E" data-items="3" data-date="04/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="04/06/2024"></rect></g><g transform="translate(468,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="04/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="04/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="04/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="04/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="04/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#30A14E" data-items="3" data-date="04/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="04/13/2024"></rect></g><g transform="translate(481,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="04/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="04/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="04/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/20/2024"></rect></g><g transform="translate(494,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="04/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="04/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="04/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/27/2024"></rect></g><g transform="translate(507,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="04/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/29/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/30/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/01/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/02/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/03/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/04/2024"></rect></g><g transform="translate(520,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/05/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/06/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/07/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="05/08/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/09/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/10/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/11/2024"></rect></g><g transform="translate(533,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/12/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/13/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/14/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/15/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/16/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/17/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/18/2024"></rect></g><g transform="translate(546,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/19/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/20/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/21/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/22/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/23/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/24/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/25/2024"></rect></g><g transform="translate(559,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/26/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/27/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/28/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/29/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/30/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/31/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/01/2024"></rect></g><g transform="translate(572,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/02/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/03/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/04/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/05/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="06/06/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/07/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="06/08/2024"></rect></g><g transform="translate(585,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/09/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="06/10/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/11/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/12/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/13/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/14/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/15/2024"></rect></g><g transform="translate(598,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/16/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/17/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/18/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/19/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/20/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/21/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/22/2024"></rect></g><g transform="translate(611,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/23/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/24/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/25/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/26/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/27/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/28/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/29/2024"></rect></g><g transform="translate(624,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/30/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/06/2024"></rect></g><g transform="translate(637,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/13/2024"></rect></g><g transform="translate(650,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/20/2024"></rect></g><g transform="translate(663,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="07/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="07/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="07/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="07/27/2024"></rect></g><g transform="translate(676,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="07/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/29/2024"></rect></g><text x="13" y="-5" class="month">Aug</text><text x="65" y="-5" class="month">Sep</text><text x="117" y="-5" class="month">Oct</text><text x="182" y="-5" class="month">Nov</text><text x="234" y="-5" class="month">Dec</text><text x="299" y="-5" class="month">Jan</text><text x="351" y="-5" class="month">Feb</text><text x="403" y="-5" class="month">Mar</text><text x="468" y="-5" class="month">Apr</text><text x="520" y="-5" class="month">May</text><text x="572" y="-5" class="month">Jun</text><text x="637" y="-5" class="month">Jul</text><text text-anchor="middle" class="wday" dx="-13" dy="22">Mon</text><text text-anchor="middle" class="wday" dx="-13" dy="48">Wed</text><text text-anchor="middle" class="wday" dx="-13" dy="74">Fri</text></g>"Your browser does not support inline SVG."</svg></div>
+
+                <div class="_UserActivityFrame_footer">
+                    <div class="_UserActivityFrame_countersRow">
+                        <div class="_UserActivityFrame_counter">
+                            <div class="_UserActivityFrame_counterValue">214 problems</div>
+                            <div class="_UserActivityFrame_counterDescription">
+                                solved for all time
+                            </div>
+                        </div>
+
+                        <div class="_UserActivityFrame_counter">
+                            <div class="_UserActivityFrame_counterValue">214 problems</div>
+                            <div class="_UserActivityFrame_counterDescription">
+                                solved for the last year
+                            </div>
+                        </div>
+
+                        <div class="_UserActivityFrame_counter">
+                            <div class="_UserActivityFrame_counterValue">11 problems</div>
+                            <div class="_UserActivityFrame_counterDescription">
+                                solved for the last month
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="_UserActivityFrame_countersRow">
+                        <div class="_UserActivityFrame_counter">
+                            <div class="_UserActivityFrame_counterValue">22 days</div>
+                            <div class="_UserActivityFrame_counterDescription">
+                                in a row max.
+                            </div>
+                        </div>
+
+                        <div class="_UserActivityFrame_counter">
+                            <div class="_UserActivityFrame_counterValue">22 days</div>
+                            <div class="_UserActivityFrame_counterDescription">
+                                in a row for the last year
+                            </div>
+                        </div>
+
+                        <div class="_UserActivityFrame_counter">
+                            <div class="_UserActivityFrame_counterValue">5 days</div>
+                            <div class="_UserActivityFrame_counterDescription">
+                                in a row for the last month
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </div>
+        </div>
+
+<script data-nocturne="true"> $(function () {
+        function renderCalendar(fromDate, toDate, strictRange) {
+            if (toDate === undefined || fromDate === undefined) {
+                fromDate = new Date();
+                fromDate.setMonth(fromDate.getMonth() - 12);
+                toDate = new Date();
+            }
+
+            $('#userActivityGraph').empty().calendar_yearview_blocks({
+                data: {
+                    "2024-04-10": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-13": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-20": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-14": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-04-11": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-22": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-21": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-12": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-04-06": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-13": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2024-04-07": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-12": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-15": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-04-04": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-14": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-04-05": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-17": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-16": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-19": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-04-08": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-18": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-04-09": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-11-04": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2023-11-08": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2023-11-07": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2023-11-22": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-11-21": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-30": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-31": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-04-02": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-04-03": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-11": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-10": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-01": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-27": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-28": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-25": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-26": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-03": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-06": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-29": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-11-15": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2023-11-16": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-06-10": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-23": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-22": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-06-08": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-03-14": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-06-06": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-11-24": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-11-26": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2023-11-28": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2023-11-27": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2023-11-29": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-12-12": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2024-03-12": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-13": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-11": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-05": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-06": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-03": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-04": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-07": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-12-03": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-03-01": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-02": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-27": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-26": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-29": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2024-02-28": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2023-12-14": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-02-21": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-20": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-22": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-14": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-13": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-05-08": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-02-16": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-02-15": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-02-18": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-17": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-19": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2023-12-25": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2023-12-24": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2023-12-26": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-07-24": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-07-28": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-07-27": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-07-26": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-07-25": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-02": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-05": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2024-02-04": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-07": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-08": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-04-21": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-31": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-04-24": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-30": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-01": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2024-04-23": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-24": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-17": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-23": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-15": {
+                        items: [
+                            2
+                        ]
+                    }, 
+                    "2024-01-25": {
+                        items: [
+                            1
+                        ]
+                    }, 
+                    "2024-01-29": {
+                        items: [
+                            4
+                        ]
+                    }
+                },
+                start_monday: false,
+                always_show_tooltip: false,
+                month_names: ['Jan', 'Feb', 'Mar',
+                    'Apr', 'May', 'Jun',
+                    'Jul', 'Aug', 'Sep',
+                    'Oct', 'Nov', 'Dec'],
+                day_names: ['Mon', "Wed", "Fri", "Sun"],
+                colors: {
+                    'default': '#EBEDF0',
+                    1: '#91DA9E',
+                    2: '#40C463',
+                    3: '#30A14E',
+                    4: '#216E39'
+                },
+                prettify_date: function (date) {
+                    const tokens = date.split("-");
+                    return tokens[1] + '/' + tokens[2] + '/' + tokens[0];
+                },
+                format_tip: function (date, items) {
+                    return "{0} <br />".formatString(date);
+                },
+                from_date: fromDate,
+                to_date: toDate,
+                strict_range: strictRange
+            });
+        }
+
+        renderCalendar();
+
+        $("._UserActivityFrame_selector select[name=showPrivateActivity]").change(function () {
+            $.post("/data/user/dhruvil_9198/activity", {
+                action: "changeSettings",
+                showPrivateActivity: $(this).val()
+            }, function (response) {
+                if (response.success === "true") {
+                    Codeforces.showMessage("Settings have been saved")
+                }
+            });
+
+            return false;
+        });
+
+        function yearChangeHandle(yearStr) {
+            if (yearStr) {
+                const year = parseInt(yearStr, 10);
+                const toDate = new Date();
+                toDate.setFullYear(year);
+                toDate.setMonth(11); // 0 - Jan, so 11 - Dec
+                toDate.setDate(31);
+
+                const fromDate = new Date();
+                fromDate.setFullYear(year);
+                fromDate.setMonth(0);
+                fromDate.setDate(1);
+
+                renderCalendar(fromDate, toDate, true);
+            } else {
+                renderCalendar();
+            }
+        }
+
+        $("._UserActivityFrame_selector select[name=yearSelect]").change(function () {
+            yearChangeHandle($(this).val());
+        });
+}); </script>
+
+
+                </div>
+        </div>
+            <br style="clear: both;">
+            <div id="footer">
+                <div><a href="https://codeforces.com/">Codeforces</a> (c) Copyright 2010-2024 Mike Mirzayanov</div>
+                <div>The only programming contests Web 2.0 platform</div>
+                    <div>Server time: Jul/29/2024 17:45:35<sup title="timezone offset" style="font-size:8px;">UTC+5.5</sup> (i1).</div>
+                    <div>Desktop version, switch to <a rel="nofollow" class="switchToMobile" href="?mobile=true">mobile version</a>.</div>
+                <div class="smaller"><a href="/privacy">Privacy Policy</a></div>
+
+                    <div style="margin-top: 25px;">
+                        Supported by
+                    </div>
+                    <div class="footer-logo-div" style="left: 30px;">
+                        <a href="https://ton.org/"><img style="margin-right: 2em; width: 60px;" src="//codeforces.org/s/78493/images/ton-100x100.png" alt="TON" title="TON"></a>
+                        <div class="sep">&nbsp;</div>
+                        <a href="https://en.itmo.ru/en/"><img style="width: 140px;" src="//codeforces.org/s/78493/images/itmo_small_en-logo.png" alt="ITMO University" title="ITMO University"></a>
+                    </div>
+
+            </div>
+        <script type="text/javascript">
+            $(function() {
+                $(".switchToMobile").click(function() {
+                    Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", "true"));
+                    return false;
+                });
+                $(".switchToDesktop").click(function() {
+                    Codeforces.redirect(Codeforces.updateUrlParameter(document.location.href, "mobile", "false"));
+                    return false;
+                });
+            });
+        </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            if ($(window).width() < 1600) {
+                $('.button-up').css('width', '30px').css('line-height', '30px').css('font-size', '20px');
+            }
+
+            if ($(window).width() >= 1200) {
+                $ (window).scroll (function () {
+                    if ($ (this).scrollTop () > 100) {
+                        $ ('.button-up').fadeIn();
+                    } else {
+                        $ ('.button-up').fadeOut();
+                    }
+                });
+
+                $('.button-up').click(function () {
+                    $('body,html').animate({
+                        scrollTop: 0
+                    }, 500);
+                    return false;
+                });
+
+                $('.button-up').hover(function () {
+                    $(this).animate({
+                        'opacity':'1'
+                    }).css({'background-color':'#e7ebf0','color':'#6a86a4'});
+                }, function () {
+                    $(this).animate({
+                        'opacity':'0.7'
+                    }).css({'background':'none','color':'#d3dbe4'});;
+                });
+            }
+            Codeforces.focusOnError();
+        });
+    </script>
+    <div class="userListsFacebox" style="display:none;">
+        <div style="padding: 0.5em; width: 600px; max-height: 200px; overflow-y: auto">
+<div class="datatable" style="background-color: #E1E1E1; padding-bottom: 3px;">
+            <div class="lt">&nbsp;</div>
+            <div class="rt">&nbsp;</div>
+            <div class="lb">&nbsp;</div>
+            <div class="rb">&nbsp;</div>
+
+            <div style="padding: 4px 0 0 6px;font-size:1.4rem;position:relative;">
+                User lists
+
+                <div style="position:absolute;right:0.25em;top:0.35em;">
+                    <span style="padding:0;position:relative;bottom:2px;" class="rowCount"></span>
+
+                    <img class="closed" src="//codeforces.org/s/78493/images/icons/control.png">
+
+                    <span class="filter" style="display:none;">
+                        <img class="opened" src="//codeforces.org/s/78493/images/icons/control-270.png">
+                        <input style="padding:0 0 0 20px;position:relative;bottom:2px;border:1px solid #aaa;height:17px;font-size:1.3rem;">
+                    </span>
+                </div>
+            </div>
+            <div style="background-color: white;margin:0.3em 3px 0 3px;position:relative;">
+            <div class="ilt">&nbsp;</div>
+            <div class="irt">&nbsp;</div>
+            <table class="">
+                <thead>
+                <tr>
+                    <th class="top left right">Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr class="no-items visible"><td style="text-align:left;" colspan="32" class="bottom dark left right">No items</td></tr></tbody>
+            </table>
+            </div>
+        </div>
+    <script type="text/javascript">
+        $(document).ready(function () {
+                // Create new ':containsIgnoreCase' selector for search
+                jQuery.expr[':'].containsIgnoreCase = function(a, i, m) {
+                    return jQuery(a).text().toUpperCase()
+                            .indexOf(m[3].toUpperCase()) >= 0;
+                };
+
+                if (window.updateDatatableFilter == undefined) {
+                    window.updateDatatableFilter = function(i) {
+                        var parent = $(i).parent().parent().parent().parent();
+                        $("tr.no-items", parent).remove();
+                        $("tr", parent).hide().removeClass('visible');
+                        var text = $(i).val();
+                        if (text) {
+                            $("tr" + ":containsIgnoreCase('" + text + "')", parent).show().addClass('visible');
+                        } else {
+                            parent.find(".rowCount").text("");
+                            $("tr", parent).show().addClass('visible');
+                        }
+
+                        var found = false;
+                        var visibleRowCount = 0;
+                        $("tr", parent).each(function () {
+                            if (!found) {
+                                if ($(this).find("th").size() > 0) {
+                                    $(this).show().addClass('visible');
+                                    found = true;
+                                }
+                            }
+                            if ($(this).hasClass('visible')) {
+                                visibleRowCount++;
+                            }
+                        });
+                        if (text) {
+                            parent.find(".rowCount").text("Matches: " + (visibleRowCount - (found ? 1 : 0)));
+                        }
+                        if (visibleRowCount == (found ? 1 : 0)) {
+                            $("<tr class='no-items visible'><td style=\"text-align:left;\"colspan=\"32\">No items<\/td><\/tr>").appendTo($(parent).find('table'));
+                        }
+                        $(parent).find("tr td").removeClass("dark");
+                        $(parent).find("tr.visible:odd td").addClass("dark");
+                    }
+
+                    $(".datatable .closed").click(function () {
+                        var parent = $(this).parent();
+                        $(this).hide();
+                        $(".filter", parent).fadeIn(function () {
+                            $("input", parent).val("").focus().css("border", "1px solid #aaa");
+                        });
+                    });
+
+                    $(".datatable .opened").click(function () {
+                        var parent = $(this).parent().parent();
+                        $(".filter", parent).fadeOut(function () {
+                            $(".closed", parent).show();
+                            $("input", parent).val("").each(function () {
+                                window.updateDatatableFilter(this);
+                            });
+                        });
+                    });
+
+                    $(".datatable .filter input").keyup(function(e) {
+                        window.updateDatatableFilter(this);
+                        e.preventDefault();
+                        e.stopPropagation();
+                    });
+
+                    $(".datatable table").each(function () {
+                        var found = false;
+                        $("tr", this).each(function () {
+                            if (!found && $(this).find("th").size() == 0) {
+                                found = true;
+                            }
+                        });
+                        if (!found) {
+                            $("<tr class='no-items visible'><td style=\"text-align:left;\"colspan=\"32\">No items<\/td><\/tr>").appendTo(this);
+                        }
+                    });
+
+                    // Applies styles to datatables.
+                    $(".datatable").each(function () {
+                        $(this).find("tr:first th").addClass("top");
+                        $(this).find("tr:last td").addClass("bottom");
+                        $(this).find("tr:odd td").addClass("dark");
+                        $(this).find("tr td:first-child, tr th:first-child").addClass("left");
+                        $(this).find("tr td:last-child, tr th:last-child").addClass("right");
+                    });
+
+                    $(".datatable table.tablesorter").each(function () {
+                        $(this).bind("sortEnd", function () {
+                            $(".datatable").each(function () {
+                                $(this).find("th, td")
+                                    .removeClass("top").removeClass("bottom")
+                                    .removeClass("left").removeClass("right")
+                                    .removeClass("dark");
+                                $(this).find("tr:first th").addClass("top");
+                                $(this).find("tr:last td").addClass("bottom");
+                                $(this).find("tr:odd td").addClass("dark");
+                                $(this).find("tr td:first-child, tr th:first-child").addClass("left");
+                                $(this).find("tr td:last-child, tr th:last-child").addClass("right");
+                            });
+                        });
+                    });
+                }
+        });
+    </script>
+        </div>
+    </div>
+    <script type="application/javascript">
+        $(function() {
+            $(".userListMarker").click(function() {
+                $.post("/data/lists", {action: "findTouched"}, function(json) {
+                    Codeforces.facebox(".userListsFacebox");
+                    var tbody = $("#facebox tbody");
+                    tbody.empty();
+                    for (var i in json) {
+                        tbody.append(
+                            $("<tr></tr>").append(
+                                $("<td></td>").attr("data-readKey", json[i].readKey).text(json[i].name)
+                            )
+                        );
+                    }
+                    Codeforces.updateDatatables();
+                    tbody.find("td").css("cursor", "pointer").click(function() {
+                        document.location = Codeforces.updateUrlParameter(document.location.href, "list", $(this).attr("data-readKey"));
+                    });
+                }, "json");
+            });
+        });
+    </script>
+</div>
+    <script type="application/javascript">
+        if ('serviceWorker' in navigator && 'fetch' in window && 'caches' in window) {
+            navigator.serviceWorker.register('/service-worker-78493.js')
+                .then(function (registration) {
+                    console.log('Service worker registered: ', registration);
+                })
+                .catch(function (error) {
+                    console.log('Registration failed: ', error);
+                });
+        }
+    </script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8aad090439f3f3ed',t:'MTcyMjI1NTMzNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8aad090439f3f3ed&quot;,&quot;version&quot;:&quot;2024.7.0&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfL4&quot;:true}},&quot;token&quot;:&quot;316c29dfa3804effb5a91c52a59b5bd0&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+
+
+<div id="datepick-div" style="display: none;"></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 42px; padding-right: 42px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div class="svg-tip svg-tip-one-line" style="display:none"></div><div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; min-width: 0px; max-width: none; padding: 0px; border: 0px; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-size-adjust: none; font-family: MathJax_Size1, monospace;"></div></div></body></html>
