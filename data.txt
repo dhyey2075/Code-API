@@ -8,7 +8,7 @@
         </script>
 
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta name="X-Csrf-Token" content="b353a27e5ca43af28f97745c1e5df1ee">
+    <meta name="X-Csrf-Token" content="027f61f5d03d82518d9539a0b2f464bf">
     <meta id="viewport" name="viewport" content="width=device-width, initial-scale=0.01">
 
     <script type="text/javascript" src="//codeforces.org/s/78493/js/jquery-1.8.3.js"></script>
@@ -43,7 +43,7 @@
     <meta property="fb:admins" content="100001352546622">
     <meta property="og:image" content="//codeforces.org/s/78493/images/codeforces-sponsored-by-ton.png">
     <link rel="image_src" href="//codeforces.org/s/78493/images/codeforces-sponsored-by-ton.png">
-    <meta property="og:title" content="dhruvil_9198 - Codeforces">
+    <meta property="og:title" content="Param3010 - Codeforces">
     <meta property="og:description" content="">
     
     <meta property="og:site_name" content="Codeforces">
@@ -55,7 +55,7 @@
     
     <meta name="utc_offset" content="+03:00">
     <meta name="verify-reformal" content="f56f99fd7e087fb6ccb48ef2">
-    <title>dhruvil_9198 - Codeforces</title>
+    <title>Param3010 - Codeforces</title>
         <meta name="description" content="Codeforces. Programming competitions and contests, programming community">
         <meta name="keywords" content="programming algorithm contest competition informatics olympiads c++ java graphs vkcup">
     <meta name="robots" content="index, follow">
@@ -306,7 +306,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 @font-face {font-family: MathJax_Size4; src: url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/woff/MathJax_Size4-Regular.woff?V=2.7.9') format('woff'), url('https://mathjax.codeforces.org/fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular.otf?V=2.7.9') format('opentype')}
 .MathJax .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
 </style></head>
-<body class=" "><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="">Loading [MathJax]/jax/output/HTML-CSS/fonts/TeX/fontdata.js</div><span style="display:none;" class="csrf-token" data-csrf="b353a27e5ca43af28f97745c1e5df1ee">&nbsp;</span>
+<body class=" "><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div><span style="display:none;" class="csrf-token" data-csrf="027f61f5d03d82518d9539a0b2f464bf">&nbsp;</span>
 
 <!-- .notificationTextCleaner used in Codeforces.showAnnouncements() -->
 <div class="notificationTextCleaner" style="font-size: 0"></div>
@@ -537,7 +537,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </div>
 
         <div>
-                        <a href="/enter?back=%2Fprofile%2Fdhruvil_9198">Enter</a>
+                        <a href="/enter?back=%2Fprofile%2FParam3010">Enter</a>
                      | 
                         <a href="/register">Register</a>
                     
@@ -567,9 +567,9 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                 <li class=""><a href="/calendar">Calendar</a></li>
                 <li class=""><a href="/help">Help</a></li>
     </ul>
-        <form method="post" action="/search"><input type="hidden" name="csrf_token" value="b353a27e5ca43af28f97745c1e5df1ee">
+        <form method="post" action="/search"><input type="hidden" name="csrf_token" value="027f61f5d03d82518d9539a0b2f464bf">
             <input class="search" name="query" data-isplaceholder="true" value="">
-        <input type="hidden" name="_tta" value="106"></form>
+        <input type="hidden" name="_tta" value="266"></form>
     <br style="clear: both;">
 </div>
 
@@ -597,7 +597,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         </div>
 <div style="padding: 0.5em;">
         <div style="text-align:center;">
-            <span class="contest-state-phase">Before contest</span><br><a href="/contests/1997">Educational Codeforces Round 168 (Rated for Div. 2)</a><br><span class="countdown" home="//codeforces.org/s/78493" noredirection="true" textbeforeredirect="" cdid="i1">26:19:26</span><br><a href="/contestRegistration/1997">Register now »</a>
+            <span class="contest-state-phase">Before contest</span><br><a href="/contests/1997">Educational Codeforces Round 168 (Rated for Div. 2)</a><br><span class="countdown" home="//codeforces.org/s/78493" noredirection="true" textbeforeredirect="" cdid="i1">25:38:35</span><br><a href="/contestRegistration/1997">Register now »</a>
         </div>
 </div>
     </div>
@@ -658,7 +658,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 
                             <div class="_StreamsSidebarFrame_countdown _StreamsSidebarFrame_timeMark">
                                 Before stream
-                                <span class="countdown" noredirection="true" cdid="i2">28:29:25</span>
+                                <span class="countdown" noredirection="true" cdid="i2">27:48:34</span>
                             </div>
                     </div>
             </div>
@@ -796,7 +796,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                     <tr>
                                 <td class="left  dark">5</td>
                                 <td class=" dark"><a href="/profile/atcoder_official" title="Unrated, atcoder_official" class="rated-user user-black">atcoder_official</a></td>
-                                <td class=" dark">149</td>
+                                <td class=" dark">150</td>
                     </tr>
                     <tr>
                                 <td class="left ">6</td>
@@ -851,7 +851,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
             <div class="top-links">
             </div>
         </div>
-        <form class="handleForm" method="post" autocomplete="off"><input type="hidden" name="csrf_token" value="b353a27e5ca43af28f97745c1e5df1ee">
+        <form class="handleForm" method="post" autocomplete="off"><input type="hidden" name="csrf_token" value="027f61f5d03d82518d9539a0b2f464bf">
             <div style="padding:1em;text-align:right;">
                 <label style="padding-right:1em;">Handle:
                     <input style="width:12em;" type="text" class="handleBox ac_input" autocomplete="off">
@@ -860,7 +860,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
             <div style="padding: 0 1em 1em 1em;text-align:right;">
                 <input style="height:1.65em;padding:0 0.75em;" type="submit" value="Find">
             </div>
-        <input type="hidden" name="_tta" value="106"></form>
+        <input type="hidden" name="_tta" value="266"></form>
     </div>
     <script type="text/javascript">
         $(document).ready(function () {
@@ -882,10 +882,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
     </script>
 
 
-
-
-
-    <div class="roundbox sidebox borderTopRound " style="">
+<div class="roundbox sidebox borderTopRound " style="">
         <div class="caption titled">→ Recent actions
             <div class="top-links">
             </div>
@@ -893,16 +890,22 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         <div class="recent-actions">
             <ul>
                         <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/ZhouShang2003" title="International Grandmaster ZhouShang2003" class="rated-user user-red">ZhouShang2003</a>        →
-        <a href="/blog/entry/131796">Pinely Round 4 (Div. 1 + Div. 2)</a>
-&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
-</div>
-</li>
-                        <li><div style="font-size:0.9em;padding:0.5em 0;">
 <a href="/profile/MikeMirzayanov" title="Headquarters, MikeMirzayanov" class="rated-user user-admin">MikeMirzayanov</a>        →
         <a href="/blog/entry/8790">Rule about third-party code is changing</a>
 &nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
         <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/Kuroni" title="International Grandmaster Kuroni" class="rated-user user-red">Kuroni</a>        →
+        <a href="/blog/entry/132008">VNOI Cup 2024 Final — Mirror Invitation</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/z_practices" title="Newbie z_practices" class="rated-user user-gray">z_practices</a>        →
+        <a href="/blog/entry/132036">[cheater report] exposing nxsang1611 I guess?</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
 </div>
 </li>
                         <li><div style="font-size:0.9em;padding:0.5em 0;">
@@ -912,14 +915,32 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 </div>
 </li>
                         <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/operator_" title="Master operator_" class="rated-user user-orange">operator_</a>        →
-        <a href="/blog/entry/132032">In Pinely Round 4 (Div. 1 + Div. 2)，my submission was hacked, but it passed again now</a>
+<a href="/profile/Pa_sha" title="Specialist Pa_sha" class="rated-user user-cyan">Pa_sha</a>        →
+        <a href="/blog/entry/132047">Eolymp Weekend Practice #3</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/YTAaronQwQ" title="Newbie YTAaronQwQ" class="rated-user user-gray">YTAaronQwQ</a>        →
+        <a href="/blog/entry/132048">OMG tourist</a>
 &nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
 </div>
 </li>
                         <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/z_practices" title="Newbie z_practices" class="rated-user user-gray">z_practices</a>        →
-        <a href="/blog/entry/132036">[cheater report] exposing nxsang1611 I guess?</a>
+<a href="/profile/Iam1789" title="Grandmaster Iam1789" class="rated-user user-red">Iam1789</a>        →
+        <a href="/blog/entry/132046">Another solution for 1466I:Can we use less than 3(n+m) queries to solve this problem?</a>
+&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/ZhouShang2003" title="International Grandmaster ZhouShang2003" class="rated-user user-red">ZhouShang2003</a>        →
+        <a href="/blog/entry/131796">Pinely Round 4 (Div. 1 + Div. 2)</a>
+&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
+</div>
+</li>
+                        <li><div style="font-size:0.9em;padding:0.5em 0;">
+<a href="/profile/operator_" title="Master operator_" class="rated-user user-orange">operator_</a>        →
+        <a href="/blog/entry/132032">In Pinely Round 4 (Div. 1 + Div. 2)，my submission was hacked, but it passed again now</a>
 &nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
 </div>
 </li>
@@ -1020,32 +1041,6 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
 &nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
 </div>
 </li>
-                        <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/shiny_shine" title="Expert shiny_shine" class="rated-user user-blue">shiny_shine</a>        →
-        <a href="/blog/entry/132027">What I've learnt from Pinely Round 4</a>
-&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
-</div>
-</li>
-                        <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/Noobish_Monk" title="International Master Noobish_Monk" class="rated-user user-orange">Noobish_Monk</a>        →
-        <a href="/blog/entry/131461">Codeforces Round 957 Editorial</a>
-&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
-</div>
-</li>
-                        <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/Arpa" title="International Master Arpa" class="rated-user user-orange">Arpa</a>        →
-        <a href="/blog/entry/114356">Ten years of competitive programming 3</a>
-&nbsp;&nbsp;<img alt="Text created or updated" title="Text created or updated" src="//codeforces.org/s/78493/images/icons/x-update-12x12.png" style="vertical-align:middle;">
-        <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
-</div>
-</li>
-                        <li><div style="font-size:0.9em;padding:0.5em 0;">
-<a href="/profile/KAN" title="Legendary Grandmaster KAN" class="rated-user user-legendary"><span class="legendary-user-first-letter">K</span>AN</a>        →
-        <a href="/blog/entry/85259">How to set a Div. 1 or a Div. 2 round on Codeforces</a>
-&nbsp;&nbsp;<img alt="New comment(s)" title="New comment(s)" src="//codeforces.org/s/78493/images/icons/comment-12x12.png" style="vertical-align:middle;">
-        <img alt="Necropost" title="Necropost" src="//codeforces.org/s/78493/images/icons/hourglass.png" style="vertical-align:middle; position: relative; top: 1px;">
-</div>
-</li>
             </ul>
         </div>
             <div class="bottom-links">
@@ -1061,16 +1056,15 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                     </tbody>
                 </table>
             </div>
-    </div>
-</div>
+    </div></div>
                         <div id="pageContent" class="content-with-sidebar">
                     <div class="second-level-menu">
-<ul class="second-level-menu-list"><li class="backLava" style="position: absolute; display: block; margin: 0px; padding: 0px; left: 0px; top: 0px; width: 82px; height: 20px;"><div class="leftLava"></div><div class="bottomLava"></div><div class="cornerLava"></div></li>
-        <li class="selectedLava"><a href="/profile/dhruvil_9198">dhruvil_9198</a></li>
-        <li><a href="/blog/dhruvil_9198">Blog</a></li>
-        <li><a href="/teams/with/dhruvil_9198">Teams</a></li>
-        <li><a href="/submissions/dhruvil_9198">Submissions</a></li>
-        <li><a href="/contests/with/dhruvil_9198">Contests</a></li>
+<ul class="second-level-menu-list"><li class="backLava" style="position: absolute; display: block; margin: 0px; padding: 0px; left: 0px; top: 0px; width: 70px; height: 20px;"><div class="leftLava"></div><div class="bottomLava"></div><div class="cornerLava"></div></li>
+        <li class="selectedLava"><a href="/profile/Param3010">Param3010</a></li>
+        <li><a href="/blog/Param3010">Blog</a></li>
+        <li><a href="/teams/with/Param3010">Teams</a></li>
+        <li><a href="/submissions/Param3010">Submissions</a></li>
+        <li><a href="/contests/with/Param3010">Contests</a></li>
 </ul>
 </div>
 
@@ -1192,11 +1186,11 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                     <span class="user-gray">Newbie </span>
                 </div>
                 <h1>
-<a href="/profile/dhruvil_9198" title="Newbie dhruvil_9198" class="rated-user user-gray">dhruvil_9198</a>                </h1>
+<a href="/profile/Param3010" title="Newbie Param3010" class="rated-user user-gray">Param3010</a>                </h1>
 
             <div style="margin-top: 0.5em;">
-                <div style="font-size: 0.8em; color: #777;">Dhruvilsinh Mahida, <a href="/ratings/country/India/city/Surat">Surat</a>, <a href="/ratings/country/India">India</a></div>
-                <div style="font-size: 0.8em; color: #777;">From <a href="/ratings/organization/3081">DAIICT</a></div>
+                <div style="font-size: 0.8em; color: #777;">Param Savjani, <a href="/ratings/country/India/city/Gandhinagar">Gandhinagar</a>, <a href="/ratings/country/India">India</a></div>
+                <div style="font-size: 0.8em; color: #777;">From <a href="/ratings/organization/18347">Dhirubhai Ambani Institute of Info and Comm Tech</a></div>
             </div>
             </div>
             <ul>
@@ -1205,7 +1199,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                         
                             Contest rating:
 
-                        <span style="font-weight:bold;" class="user-gray">947</span> <span class="smaller"> (max. <span style="font-weight:bold;" class="user-gray">newbie, </span> <span style="font-weight:bold;" class="user-gray">995</span>)</span>                    </li>
+                        <span style="font-weight:bold;" class="user-gray">1145</span> <span class="smaller"> (max. <span style="font-weight:bold;" class="user-gray">newbie, </span> <span style="font-weight:bold;" class="user-gray">1145</span>)</span>                    </li>
                     <li>
                             <img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/star_blue_24.png" alt="User''s contribution into Codeforces community" title="User''s contribution into Codeforces community">
                         
@@ -1216,30 +1210,33 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
                             <img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/star_yellow_24.png">
                         
 
-                        Friend of: 16 users                    </li>
+                        Friend of: 45 users                    </li>
+                    <li>
+                            <img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/mail.png" alt="Email" title="Email">
+                        
+
+                        paramsavjani3010@gmail.com                    </li>
                     <li>
                         
                             Last visit:
 
-                        <span style="color:green;font-weight:bold;">online now</span>                    </li>
+                        <span class="format-humantime" title="Jul/29/2024 12:39 UTC+5.5">6 hours ago</span>                    </li>
                     <li>
                         
                             Registered:
 
-                        <span class="format-humantime" title="Nov/04/2023 16:54 UTC+5.5">9 months ago</span>                    </li>
+                        <span class="format-humantime" title="Oct/28/2023 01:44 UTC+5.5">9 months ago</span>                    </li>
                     <li>
-                            <a href="/blog/dhruvil_9198"><img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/blog.png" alt="dhruvil_9198's blog" title="dhruvil_9198's blog"></a>
+                            <a href="/comments/with/Param3010"><img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/icons/blog.png" alt="Param3010s comments" title="Param3010s comments"></a>
                         
 
-                        <a href="/blog/dhruvil_9198">Blog entries (0)</a>,
-                                    <a href="/comments/with/dhruvil_9198">comments</a>
-                    </li>
+                        <a href="/comments/with/Param3010">Comments</a>                    </li>
                     <li>
-                            <a href="/usertalk/with/dhruvil_9198"><img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/actions/mail_generic.png" alt="Your talks with dhruvil_9198" title="Your talks with dhruvil_9198"></a>
+                            <a href="/usertalk/with/Param3010"><img style="vertical-align:middle;margin-right:0.5em;" src="//codeforces.org/s/78493/images/actions/mail_generic.png" alt="Your talks with Param3010" title="Your talks with Param3010"></a>
                         
 
-                        <a href="/usertalk/with/dhruvil_9198">Talks</a> |
-                                    <a href="/usertalk?other=dhruvil_9198">Send message</a>
+                        <a href="/usertalk/with/Param3010">Talks</a> |
+                                    <a href="/usertalk?other=Param3010">Send message</a>
                     </li>
             </ul>
         </div>
@@ -1290,7 +1287,7 @@ img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!importan
         });
     </script>
 
-<form class="trust-user-form-proto"><input type="hidden" name="csrf_token" value="b353a27e5ca43af28f97745c1e5df1ee">
+<form class="trust-user-form-proto"><input type="hidden" name="csrf_token" value="027f61f5d03d82518d9539a0b2f464bf">
     <input class="trust-user-form-checkbox" type="checkbox">
     <i class="icon-question-sign clickable-title" data-title="<div class='ttypography'>
 <p>
@@ -1319,7 +1316,7 @@ You can confirm that you know the user personally and guarantee reasonableness a
 In case of violation of any rules of the site, administrative penalties can be applied to you (up to the ban). Think twice before confirming your trust.
 You can review the list of people you trust by the link.
 " style="position: relative; bottom: 3px;"></i>
-<input type="hidden" name="_tta" value="106"></form>
+<input type="hidden" name="_tta" value="266"></form>
 
 <style>
     .trust-user-form-proto {
@@ -1357,7 +1354,7 @@ You can review the list of people you trust by the link.
                     Codeforces.confirm(title + " <br/><b>Are you sure you want to trust the user?</b>", function () {
                         $.post("/data/trusts", {
                             action: "change",
-                            targetUserId: 3597211,
+                            targetUserId: 3581090,
                             value: value
                         }, function (result) {
                             if (result["success"] === "true") {
@@ -1370,7 +1367,7 @@ You can review the list of people you trust by the link.
                     Codeforces.confirm("Are you sure you want to remove the user from your trust list?", function () {
                         $.post("/data/trusts", {
                             action: "change",
-                            targetUserId: 3597211,
+                            targetUserId: 3581090,
                             value: value
                         }, function (result) {
                             if (result["success"] === "true") {
@@ -1411,7 +1408,7 @@ You can review the list of people you trust by the link.
             </form>
         </div>
 
-        <div id="usersRatingGraphPlaceholder" style="width: 100%; height: 300px; padding: 0px; position: relative;"><canvas class="flot-base" width="568" height="300" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 568px; height: 300px;"></canvas><div class="flot-text" style="position: absolute; inset: 0px; font-size: smaller; color: rgb(84, 84, 84);"><div class="flot-x-axis flot-x1-axis xAxis x1Axis" style="position: absolute; inset: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 50px; text-align: center;">01 Feb 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 127px; text-align: center;">01 Mar 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 210px; text-align: center;">01 Apr 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 289px; text-align: center;">01 May 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 372px; text-align: center;">01 Jun 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 71px; top: 270px; left: 452px; text-align: center;">01 Jul 2024</div></div><div class="flot-y-axis flot-y1-axis yAxis y1Axis" style="position: absolute; inset: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; top: 119px; left: 2px; text-align: right;">1200</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 89px; left: 2px; text-align: right;">1400</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 60px; left: 2px; text-align: right;">1600</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 16px; left: 2px; text-align: right;">1900</div></div></div><canvas class="flot-overlay" width="568" height="300" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 568px; height: 300px;"></canvas><div class="legend"><div style="position: absolute; width: 95px; height: 14px; top: 13px; right: 13px; background-color: rgb(255, 255, 255); opacity: 0.85;"> </div><table style="position:absolute;top:13px;right:13px;;font-size:smaller;color:#545454"><tbody><tr><td class="legendColorBox"><div style="border:1px solid #ccc;padding:1px"><div style="width:4px;height:0;border:5px solid rgb(237,194,64);overflow:hidden"></div></div></td><td class="legendLabel">dhruvil_9198</td></tr></tbody></table></div></div>
+        <div id="usersRatingGraphPlaceholder" style="width: 100%; height: 300px; padding: 0px; position: relative;"><canvas class="flot-base" width="568" height="300" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 568px; height: 300px;"></canvas><div class="flot-text" style="position: absolute; inset: 0px; font-size: smaller; color: rgb(84, 84, 84);"><div class="flot-x-axis flot-x1-axis xAxis x1Axis" style="position: absolute; inset: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 81px; top: 284px; left: 47px; text-align: center;">01 Mar 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 81px; top: 284px; left: 148px; text-align: center;">01 Apr 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 81px; top: 284px; left: 243px; text-align: center;">01 May 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 81px; top: 284px; left: 344px; text-align: center;">01 Jun 2024</div><div class="flot-tick-label tickLabel" style="position: absolute; max-width: 81px; top: 284px; left: 443px; text-align: center;">01 Jul 2024</div></div><div class="flot-y-axis flot-y1-axis yAxis y1Axis" style="position: absolute; inset: 0px; display: block;"><div class="flot-tick-label tickLabel" style="position: absolute; top: 129px; left: 2px; text-align: right;">1200</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 97px; left: 2px; text-align: right;">1400</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 65px; left: 2px; text-align: right;">1600</div><div class="flot-tick-label tickLabel" style="position: absolute; top: 17px; left: 2px; text-align: right;">1900</div></div></div><canvas class="flot-overlay" width="568" height="300" style="direction: ltr; position: absolute; left: 0px; top: 0px; width: 568px; height: 300px;"></canvas><div class="legend"><div style="position: absolute; width: 85px; height: 14px; top: 13px; right: 13px; background-color: rgb(255, 255, 255); opacity: 0.85;"> </div><table style="position:absolute;top:13px;right:13px;;font-size:smaller;color:#545454"><tbody><tr><td class="legendColorBox"><div style="border:1px solid #ccc;padding:1px"><div style="width:4px;height:0;border:5px solid rgb(237,194,64);overflow:hidden"></div></div></td><td class="legendLabel">Param3010</td></tr></tbody></table></div></div>
     </div>
 
 <script data-nocturne="true"> $(function () {
@@ -1423,68 +1420,34 @@ You can review the list of people you trust by the link.
 
     data.push([
             [
-                1705156500000,
-                357,
-                1920,
-                "Codeforces Round 919 (Div. 2)",
+                1708007700000,
+                400,
+                1929,
+                "Codeforces Round 926 (Div. 2)",
                 "",
-                357,
-                15787,
-                "/contest/1920/standings/participant/171718114#p171718114",
+                400,
+                12787,
+                "/contest/1929/standings/participant/174109349#p174109349",
                 "newbie",
                 "newbie",
-                "12311622",
-                "Codeforces Round 919 (Div. 2)",
-                "<span class=\"format-time\" data-locale=\"en\">Jan/13/2024 17:35<\/span>",
-                "https://www.timeanddate.com/worldclock/fixedtime.html?day=13&month=1&year=2024&hour=17&min=35&sec=0&p1=166"
-            ]
-            ,
-            [
-                1705329300000,
-                610,
-                1921,
-                "Codeforces Round 920 (Div. 3)",
-                "",
-                253,
-                17655,
-                "/contest/1921/standings/participant/172011333#p172011333",
-                "newbie",
-                "newbie",
-                "12329880",
-                "Codeforces Round 920 (Div. 3)",
-                "<span class=\"format-time\" data-locale=\"en\">Jan/15/2024 17:35<\/span>",
-                "https://www.timeanddate.com/worldclock/fixedtime.html?day=15&month=1&year=2024&hour=17&min=35&sec=0&p1=166"
-            ]
-            ,
-            [
-                1707834900000,
-                785,
-                1931,
-                "Codeforces Round 925 (Div. 3)",
-                "",
-                175,
-                17416,
-                "/contest/1931/standings/participant/174127821#p174127821",
-                "newbie",
-                "newbie",
-                "12668976",
-                "Codeforces Round 925 (Div. 3)",
-                "<span class=\"format-time\" data-locale=\"en\">Feb/13/2024 17:35<\/span>",
-                "https://www.timeanddate.com/worldclock/fixedtime.html?day=13&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
+                "12689197",
+                "Codeforces Round 926 (Div. 2)",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/15/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=15&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
             ]
             ,
             [
                 1708180500000,
-                925,
+                701,
                 1930,
                 "think-cell Round 1",
                 "",
-                140,
-                7475,
-                "/contest/1930/standings/participant/174450924#p174450924",
+                301,
+                6934,
+                "/contest/1930/standings/participant/174572845#p174572845",
                 "newbie",
                 "newbie",
-                "12702854",
+                "12702321",
                 "think-cell Round 1",
                 "<span class=\"format-time\" data-locale=\"en\">Feb/17/2024 17:35<\/span>",
                 "https://www.timeanddate.com/worldclock/fixedtime.html?day=17&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
@@ -1492,76 +1455,128 @@ You can review the list of people you trust by the link.
             ,
             [
                 1708257900000,
-                984,
+                847,
                 1932,
                 "Codeforces Round 927 (Div. 3)",
                 "",
-                59,
-                10653,
-                "/contest/1932/standings/participant/174565597#p174565597",
+                146,
+                13655,
+                "/contest/1932/standings/participant/174547585#p174547585",
                 "newbie",
                 "newbie",
-                "12884959",
+                "12887860",
                 "Codeforces Round 927 (Div. 3)",
                 "<span class=\"format-time\" data-locale=\"en\">Feb/18/2024 15:05<\/span>",
                 "https://www.timeanddate.com/worldclock/fixedtime.html?day=18&month=2&year=2024&hour=15&min=5&sec=0&p1=166"
             ]
             ,
             [
-                1722004500000,
-                995,
-                1996,
-                "Codeforces Round 962 (Div. 3)",
+                1708353300000,
+                1010,
+                1926,
+                "Codeforces Round 928 (Div. 4)",
                 "",
-                11,
-                16439,
-                "/contest/1996/standings/participant/187668497#p187668497",
+                163,
+                6572,
+                "/contest/1926/standings/participant/174547594#p174547594",
                 "newbie",
                 "newbie",
-                "14485243",
-                "Codeforces Round 962 (Div. 3)",
-                "<span class=\"format-time\" data-locale=\"en\">Jul/26/2024 17:35<\/span>",
-                "https://www.timeanddate.com/worldclock/fixedtime.html?day=26&month=7&year=2024&hour=17&min=35&sec=0&p1=166"
+                "12897817",
+                "Codeforces Round 928 (Div. 4)",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/19/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=19&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
             ]
             ,
             [
-                1722177300000,
-                947,
-                1991,
-                "Pinely Round 4 (Div. 1 + Div. 2)",
+                1709044500000,
+                1128,
+                1933,
+                "Codeforces Round 929 (Div. 3)",
                 "",
-                -48,
-                12354,
-                "/contest/1991/standings/participant/187857344#p187857344",
+                118,
+                7133,
+                "/contest/1933/standings/participant/175370475#p175370475",
                 "newbie",
                 "newbie",
-                "14507696",
-                "Pinely Round 4 (Div. 1 + Div. 2)",
-                "<span class=\"format-time\" data-locale=\"en\">Jul/28/2024 17:35<\/span>",
-                "https://www.timeanddate.com/worldclock/fixedtime.html?day=28&month=7&year=2024&hour=17&min=35&sec=0&p1=166"
+                "12942390",
+                "Codeforces Round 929 (Div. 3)",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/27/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=27&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1709217300000,
+                1121,
+                1937,
+                "Codeforces Round 930 (Div. 2)",
+                "",
+                -7,
+                10006,
+                "/contest/1937/standings/participant/175370472#p175370472",
+                "newbie",
+                "newbie",
+                "12971275",
+                "Codeforces Round 930 (Div. 2)",
+                "<span class=\"format-time\" data-locale=\"en\">Feb/29/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=29&month=2&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1715351700000,
+                1116,
+                1971,
+                "Codeforces Round 944 (Div. 4)",
+                "",
+                -5,
+                7728,
+                "/contest/1971/standings/participant/181498439#p181498439",
+                "newbie",
+                "newbie",
+                "13683645",
+                "Codeforces Round 944 (Div. 4)",
+                "<span class=\"format-time\" data-locale=\"en\">May/10/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=10&month=5&year=2024&hour=17&min=35&sec=0&p1=166"
+            ]
+            ,
+            [
+                1722004500000,
+                1145,
+                1996,
+                "Codeforces Round 962 (Div. 3)",
+                "",
+                29,
+                7590,
+                "/contest/1996/standings/participant/187635727#p187635727",
+                "newbie",
+                "newbie",
+                "14476377",
+                "Codeforces Round 962 (Div. 3)",
+                "<span class=\"format-time\" data-locale=\"en\">Jul/26/2024 17:35<\/span>",
+                "https://www.timeanddate.com/worldclock/fixedtime.html?day=26&month=7&year=2024&hour=17&min=35&sec=0&p1=166"
             ]
             
     ]);
     data.push([
         [
-            1722004500000, 995
+            1722004500000, 1145
         ]
     ]);
     {
         var unrated = [];
-            unrated.push([1705156500000, 357,  15787]);
-            unrated.push([1705329300000, 610,  17655]);
-            unrated.push([1707834900000, 785,  17416]);
-            unrated.push([1708180500000, 925,  7475]);
-            unrated.push([1708257900000, 984,  10653]);
-            unrated.push([1722004500000, 995,  16439]);
-            unrated.push([1722177300000, 947,  12354]);
+            unrated.push([1708007700000, 400,  12787]);
+            unrated.push([1708180500000, 701,  6934]);
+            unrated.push([1708257900000, 847,  13655]);
+            unrated.push([1708353300000, 1010,  6572]);
+            unrated.push([1709044500000, 1128,  7133]);
+            unrated.push([1709217300000, 1121,  10006]);
+            unrated.push([1715351700000, 1116,  7728]);
+            unrated.push([1722004500000, 1145,  7590]);
         unrated = unrated.filter(x => x[2] < 0);
         data.push(unrated);
     }
 
     var datas = [
-        {label: "dhruvil_9198", data: data[0]},
+        {label: "Param3010", data: data[0]},
         {clickable: false, hoverable: false, color: "red", data: data[1]},
         {clickable: false, hoverable: false, color: "gray", data: data[2], lines: {show: false}}
         
@@ -1586,7 +1601,7 @@ You can review the list of people you trust by the link.
         xaxis: {
             mode: "time",
             zoomRange: [172800000, null],
-            panRange: [1705156500000, 1722177300000],
+            panRange: [1708007700000, 1722004500000],
             timeformat: function () {
                 let minTimestamp = 1e18;
                 let maxTimestamp = -1e18;
@@ -1613,11 +1628,11 @@ You can review the list of people you trust by the link.
             }()
         },
         yaxis: {
-            min: 257,
+            min: 300,
             max: 2000,
             ticks: [1200, 1400, 1600, 1900, 2100, 2300, 2400, 2600, 3000],
             zoomRange: [500, null],
-            panRange: [257, 2000]
+            panRange: [300, 2000]
         },
         grid: {
             hoverable: true,
@@ -1788,38 +1803,29 @@ You can review the list of people you trust by the link.
                     <span class="_UserActivityFrame_caption">
                     </span>
 
-                        <div class="_UserActivityFrame_selector weeks53">
-                            <label>
-                                <select name="yearSelect" style="font-size: 1em !important">
-                                    <option value="" selected="">Choose year</option>
-                                        <option value="2024">2024</option>
-                                        <option value="2023">2023</option>
-                                </select>
-                            </label>
-                        </div>
 
                 </div>
 
-                <div id="userActivityGraph"><svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 721 110"><g transform="translate(25, 20)"><g transform="translate(0,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/30/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/31/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/01/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/02/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/03/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/04/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/05/2023"></rect></g><g transform="translate(13,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/06/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/07/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/08/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/09/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/10/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/11/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/12/2023"></rect></g><g transform="translate(26,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/13/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/14/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/15/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/16/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/17/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/18/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/19/2023"></rect></g><g transform="translate(39,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/20/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/21/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/22/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/23/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/24/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/25/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/26/2023"></rect></g><g transform="translate(52,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/27/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/28/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/29/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/30/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/31/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/01/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/02/2023"></rect></g><g transform="translate(65,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/03/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/04/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/05/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/06/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/07/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/08/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/09/2023"></rect></g><g transform="translate(78,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/10/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/11/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/12/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/13/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/14/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/15/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/16/2023"></rect></g><g transform="translate(91,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/17/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/18/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/19/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/20/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/21/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/22/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/23/2023"></rect></g><g transform="translate(104,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/24/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/25/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/26/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/27/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/28/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/29/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/30/2023"></rect></g><g transform="translate(117,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/01/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/02/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/03/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/04/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/05/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/06/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/07/2023"></rect></g><g transform="translate(130,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/08/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/09/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/10/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/11/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/12/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/13/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/14/2023"></rect></g><g transform="translate(143,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/15/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/16/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/17/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/18/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/19/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/20/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/21/2023"></rect></g><g transform="translate(156,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/22/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/23/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/24/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/25/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/26/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/27/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/28/2023"></rect></g><g transform="translate(169,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/29/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/30/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/31/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/01/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/02/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/03/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="11/04/2023"></rect></g><g transform="translate(182,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/05/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/06/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="11/07/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="11/08/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/09/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/10/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/11/2023"></rect></g><g transform="translate(195,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/12/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/13/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="11/14/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#91DA9E" data-items="1" data-date="11/15/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="11/16/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/17/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/18/2023"></rect></g><g transform="translate(208,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/19/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/20/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="11/21/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="11/22/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/23/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="11/24/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/25/2023"></rect></g><g transform="translate(221,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="11/26/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="11/27/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#91DA9E" data-items="1" data-date="11/28/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="11/29/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/30/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/01/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/02/2023"></rect></g><g transform="translate(234,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="12/03/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/04/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/05/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/06/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/07/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/08/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/09/2023"></rect></g><g transform="translate(247,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/10/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/11/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#91DA9E" data-items="1" data-date="12/12/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/13/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="12/14/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/15/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/16/2023"></rect></g><g transform="translate(260,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/17/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/18/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/19/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/20/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/21/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/22/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/23/2023"></rect></g><g transform="translate(273,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="12/24/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="12/25/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="12/26/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/27/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/28/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/29/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/30/2023"></rect></g><g transform="translate(286,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/31/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="01/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="01/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="01/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="01/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="01/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#40C463" data-items="2" data-date="01/06/2024"></rect></g><g transform="translate(299,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="01/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="01/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="01/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="01/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="01/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#91DA9E" data-items="1" data-date="01/13/2024"></rect></g><g transform="translate(312,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="01/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="01/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="01/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="01/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="01/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#30A14E" data-items="3" data-date="01/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="01/20/2024"></rect></g><g transform="translate(325,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="01/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="01/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#91DA9E" data-items="1" data-date="01/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="01/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="01/27/2024"></rect></g><g transform="translate(338,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="01/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/29/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="01/30/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="01/31/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#91DA9E" data-items="1" data-date="02/01/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="02/02/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/03/2024"></rect></g><g transform="translate(351,0)"><rect class="day" width="11" height="11" y="0" fill="#30A14E" data-items="3" data-date="02/04/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#91DA9E" data-items="1" data-date="02/05/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="02/06/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="02/07/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="02/08/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/09/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/10/2024"></rect></g><g transform="translate(364,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="02/11/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="02/12/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="02/13/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="02/14/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="02/15/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="02/16/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="02/17/2024"></rect></g><g transform="translate(377,0)"><rect class="day" width="11" height="11" y="0" fill="#30A14E" data-items="3" data-date="02/18/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="02/19/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="02/20/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="02/21/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#30A14E" data-items="3" data-date="02/22/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/23/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/24/2024"></rect></g><g transform="translate(390,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="02/25/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="02/26/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="02/27/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="02/28/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#91DA9E" data-items="1" data-date="02/29/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="03/01/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="03/02/2024"></rect></g><g transform="translate(403,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="03/03/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="03/04/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="03/05/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="03/06/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="03/07/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/08/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/09/2024"></rect></g><g transform="translate(416,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/10/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="03/11/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="03/12/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="03/13/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="03/14/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/15/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/16/2024"></rect></g><g transform="translate(429,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/17/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="03/18/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="03/19/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="03/20/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="03/21/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="03/22/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="03/23/2024"></rect></g><g transform="translate(442,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/24/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="03/25/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="03/26/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="03/27/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="03/28/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="03/29/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#40C463" data-items="2" data-date="03/30/2024"></rect></g><g transform="translate(455,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="03/31/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="04/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#30A14E" data-items="3" data-date="04/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="04/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#30A14E" data-items="3" data-date="04/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#30A14E" data-items="3" data-date="04/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="04/06/2024"></rect></g><g transform="translate(468,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="04/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="04/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="04/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="04/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="04/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#30A14E" data-items="3" data-date="04/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="04/13/2024"></rect></g><g transform="translate(481,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="04/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="04/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="04/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/20/2024"></rect></g><g transform="translate(494,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="04/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#40C463" data-items="2" data-date="04/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="04/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/27/2024"></rect></g><g transform="translate(507,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="04/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/29/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/30/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/01/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/02/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/03/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/04/2024"></rect></g><g transform="translate(520,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/05/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/06/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/07/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#40C463" data-items="2" data-date="05/08/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/09/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/10/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/11/2024"></rect></g><g transform="translate(533,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/12/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/13/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/14/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/15/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/16/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/17/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/18/2024"></rect></g><g transform="translate(546,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/19/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/20/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/21/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/22/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/23/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/24/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/25/2024"></rect></g><g transform="translate(559,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/26/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/27/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/28/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/29/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/30/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/31/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/01/2024"></rect></g><g transform="translate(572,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/02/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/03/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/04/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/05/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="06/06/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/07/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="06/08/2024"></rect></g><g transform="translate(585,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/09/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#40C463" data-items="2" data-date="06/10/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/11/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/12/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/13/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/14/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/15/2024"></rect></g><g transform="translate(598,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/16/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/17/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/18/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/19/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/20/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/21/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/22/2024"></rect></g><g transform="translate(611,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/23/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/24/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/25/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/26/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/27/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/28/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/29/2024"></rect></g><g transform="translate(624,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/30/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/06/2024"></rect></g><g transform="translate(637,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/13/2024"></rect></g><g transform="translate(650,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/20/2024"></rect></g><g transform="translate(663,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#30A14E" data-items="3" data-date="07/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="07/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="07/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="07/27/2024"></rect></g><g transform="translate(676,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="07/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/29/2024"></rect></g><text x="13" y="-5" class="month">Aug</text><text x="65" y="-5" class="month">Sep</text><text x="117" y="-5" class="month">Oct</text><text x="182" y="-5" class="month">Nov</text><text x="234" y="-5" class="month">Dec</text><text x="299" y="-5" class="month">Jan</text><text x="351" y="-5" class="month">Feb</text><text x="403" y="-5" class="month">Mar</text><text x="468" y="-5" class="month">Apr</text><text x="520" y="-5" class="month">May</text><text x="572" y="-5" class="month">Jun</text><text x="637" y="-5" class="month">Jul</text><text text-anchor="middle" class="wday" dx="-13" dy="22">Mon</text><text text-anchor="middle" class="wday" dx="-13" dy="48">Wed</text><text text-anchor="middle" class="wday" dx="-13" dy="74">Fri</text></g>"Your browser does not support inline SVG."</svg></div>
+                <div id="userActivityGraph"><svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet" viewBox="0 0 721 110"><g transform="translate(25, 20)"><g transform="translate(0,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/30/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/31/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/01/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/02/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/03/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/04/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/05/2023"></rect></g><g transform="translate(13,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/06/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/07/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/08/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/09/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/10/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/11/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/12/2023"></rect></g><g transform="translate(26,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/13/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/14/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/15/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/16/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/17/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/18/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/19/2023"></rect></g><g transform="translate(39,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/20/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/21/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/22/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/23/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/24/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="08/25/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="08/26/2023"></rect></g><g transform="translate(52,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="08/27/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="08/28/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="08/29/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="08/30/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="08/31/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/01/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/02/2023"></rect></g><g transform="translate(65,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/03/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/04/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/05/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/06/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/07/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/08/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/09/2023"></rect></g><g transform="translate(78,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/10/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/11/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/12/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/13/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/14/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/15/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/16/2023"></rect></g><g transform="translate(91,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/17/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/18/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/19/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/20/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/21/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/22/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/23/2023"></rect></g><g transform="translate(104,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="09/24/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="09/25/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="09/26/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="09/27/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="09/28/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="09/29/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="09/30/2023"></rect></g><g transform="translate(117,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/01/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/02/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/03/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/04/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/05/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/06/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/07/2023"></rect></g><g transform="translate(130,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/08/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/09/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/10/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/11/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/12/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/13/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/14/2023"></rect></g><g transform="translate(143,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/15/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/16/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/17/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/18/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/19/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/20/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/21/2023"></rect></g><g transform="translate(156,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/22/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/23/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/24/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="10/25/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="10/26/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="10/27/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="10/28/2023"></rect></g><g transform="translate(169,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="10/29/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="10/30/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="10/31/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/01/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/02/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/03/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/04/2023"></rect></g><g transform="translate(182,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/05/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/06/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="11/07/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/08/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/09/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/10/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/11/2023"></rect></g><g transform="translate(195,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/12/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/13/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="11/14/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/15/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/16/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/17/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/18/2023"></rect></g><g transform="translate(208,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/19/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/20/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="11/21/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/22/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/23/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="11/24/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="11/25/2023"></rect></g><g transform="translate(221,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="11/26/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="11/27/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="11/28/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="11/29/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="11/30/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/01/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/02/2023"></rect></g><g transform="translate(234,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/03/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/04/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/05/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/06/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/07/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/08/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/09/2023"></rect></g><g transform="translate(247,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/10/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/11/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/12/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/13/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/14/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/15/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/16/2023"></rect></g><g transform="translate(260,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/17/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/18/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/19/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/20/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/21/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/22/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/23/2023"></rect></g><g transform="translate(273,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/24/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="12/25/2023"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="12/26/2023"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="12/27/2023"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="12/28/2023"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="12/29/2023"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="12/30/2023"></rect></g><g transform="translate(286,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="12/31/2023"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="01/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="01/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="01/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="01/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="01/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="01/06/2024"></rect></g><g transform="translate(299,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="01/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="01/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="01/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="01/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="01/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="01/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="01/13/2024"></rect></g><g transform="translate(312,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="01/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="01/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="01/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="01/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="01/20/2024"></rect></g><g transform="translate(325,0)"><rect class="day" width="11" height="11" y="0" fill="#30A14E" data-items="3" data-date="01/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="01/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="01/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="01/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="01/27/2024"></rect></g><g transform="translate(338,0)"><rect class="day" width="11" height="11" y="0" fill="#216E39" data-items="4" data-date="01/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="01/29/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="01/30/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="01/31/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="02/01/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="02/02/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="02/03/2024"></rect></g><g transform="translate(351,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="02/04/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="02/05/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="02/06/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="02/07/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="02/08/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/09/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/10/2024"></rect></g><g transform="translate(364,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="02/11/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="02/12/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="02/13/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="02/14/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#30A14E" data-items="3" data-date="02/15/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/16/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#30A14E" data-items="3" data-date="02/17/2024"></rect></g><g transform="translate(377,0)"><rect class="day" width="11" height="11" y="0" fill="#30A14E" data-items="3" data-date="02/18/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#216E39" data-items="4" data-date="02/19/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="02/20/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="02/21/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="02/22/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="02/23/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="02/24/2024"></rect></g><g transform="translate(390,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="02/25/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="02/26/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="02/27/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="02/28/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#40C463" data-items="2" data-date="02/29/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#40C463" data-items="2" data-date="03/01/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/02/2024"></rect></g><g transform="translate(403,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/03/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="03/04/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="03/05/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="03/06/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="03/07/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/08/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/09/2024"></rect></g><g transform="translate(416,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/10/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="03/11/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="03/12/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="03/13/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="03/14/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/15/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/16/2024"></rect></g><g transform="translate(429,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/17/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="03/18/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="03/19/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="03/20/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="03/21/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/22/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/23/2024"></rect></g><g transform="translate(442,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/24/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="03/25/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="03/26/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="03/27/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="03/28/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="03/29/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="03/30/2024"></rect></g><g transform="translate(455,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="03/31/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="04/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/06/2024"></rect></g><g transform="translate(468,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="04/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#30A14E" data-items="3" data-date="04/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="04/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/13/2024"></rect></g><g transform="translate(481,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="04/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="04/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/20/2024"></rect></g><g transform="translate(494,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="04/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="04/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="04/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="04/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="04/27/2024"></rect></g><g transform="translate(507,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="04/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="04/29/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="04/30/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/01/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/02/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/03/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/04/2024"></rect></g><g transform="translate(520,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/05/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/06/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/07/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/08/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#216E39" data-items="4" data-date="05/09/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="05/10/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#216E39" data-items="4" data-date="05/11/2024"></rect></g><g transform="translate(533,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/12/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/13/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/14/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#216E39" data-items="4" data-date="05/15/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/16/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/17/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/18/2024"></rect></g><g transform="translate(546,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/19/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/20/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/21/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/22/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/23/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/24/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="05/25/2024"></rect></g><g transform="translate(559,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="05/26/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="05/27/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="05/28/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="05/29/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="05/30/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="05/31/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/01/2024"></rect></g><g transform="translate(572,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/02/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/03/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/04/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/05/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/06/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/07/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/08/2024"></rect></g><g transform="translate(585,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/09/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/10/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/11/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/12/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/13/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/14/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/15/2024"></rect></g><g transform="translate(598,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/16/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/17/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/18/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/19/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/20/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/21/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/22/2024"></rect></g><g transform="translate(611,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/23/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="06/24/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="06/25/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="06/26/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="06/27/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="06/28/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="06/29/2024"></rect></g><g transform="translate(624,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="06/30/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/01/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#216E39" data-items="4" data-date="07/02/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/03/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/04/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/05/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/06/2024"></rect></g><g transform="translate(637,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/07/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/08/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/09/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/10/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/11/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/12/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/13/2024"></rect></g><g transform="translate(650,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/14/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/15/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/16/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/17/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/18/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#EBEDF0" data-items="" data-date="07/19/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/20/2024"></rect></g><g transform="translate(663,0)"><rect class="day" width="11" height="11" y="0" fill="#EBEDF0" data-items="" data-date="07/21/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/22/2024"></rect><rect class="day" width="11" height="11" y="26" fill="#EBEDF0" data-items="" data-date="07/23/2024"></rect><rect class="day" width="11" height="11" y="39" fill="#EBEDF0" data-items="" data-date="07/24/2024"></rect><rect class="day" width="11" height="11" y="52" fill="#EBEDF0" data-items="" data-date="07/25/2024"></rect><rect class="day" width="11" height="11" y="65" fill="#216E39" data-items="4" data-date="07/26/2024"></rect><rect class="day" width="11" height="11" y="78" fill="#EBEDF0" data-items="" data-date="07/27/2024"></rect></g><g transform="translate(676,0)"><rect class="day" width="11" height="11" y="0" fill="#40C463" data-items="2" data-date="07/28/2024"></rect><rect class="day" width="11" height="11" y="13" fill="#EBEDF0" data-items="" data-date="07/29/2024"></rect></g><text x="13" y="-5" class="month">Aug</text><text x="65" y="-5" class="month">Sep</text><text x="117" y="-5" class="month">Oct</text><text x="182" y="-5" class="month">Nov</text><text x="234" y="-5" class="month">Dec</text><text x="299" y="-5" class="month">Jan</text><text x="351" y="-5" class="month">Feb</text><text x="403" y="-5" class="month">Mar</text><text x="468" y="-5" class="month">Apr</text><text x="520" y="-5" class="month">May</text><text x="572" y="-5" class="month">Jun</text><text x="637" y="-5" class="month">Jul</text><text text-anchor="middle" class="wday" dx="-13" dy="22">Mon</text><text text-anchor="middle" class="wday" dx="-13" dy="48">Wed</text><text text-anchor="middle" class="wday" dx="-13" dy="74">Fri</text></g>"Your browser does not support inline SVG."</svg></div>
 
                 <div class="_UserActivityFrame_footer">
                     <div class="_UserActivityFrame_countersRow">
                         <div class="_UserActivityFrame_counter">
-                            <div class="_UserActivityFrame_counterValue">214 problems</div>
+                            <div class="_UserActivityFrame_counterValue">219 problems</div>
                             <div class="_UserActivityFrame_counterDescription">
                                 solved for all time
                             </div>
                         </div>
 
                         <div class="_UserActivityFrame_counter">
-                            <div class="_UserActivityFrame_counterValue">214 problems</div>
+                            <div class="_UserActivityFrame_counterValue">219 problems</div>
                             <div class="_UserActivityFrame_counterDescription">
                                 solved for the last year
                             </div>
                         </div>
 
                         <div class="_UserActivityFrame_counter">
-                            <div class="_UserActivityFrame_counterValue">11 problems</div>
+                            <div class="_UserActivityFrame_counterValue">8 problems</div>
                             <div class="_UserActivityFrame_counterDescription">
                                 solved for the last month
                             </div>
@@ -1828,23 +1834,25 @@ You can review the list of people you trust by the link.
 
                     <div class="_UserActivityFrame_countersRow">
                         <div class="_UserActivityFrame_counter">
-                            <div class="_UserActivityFrame_counterValue">22 days</div>
+                            <div class="_UserActivityFrame_counterValue">23 days</div>
                             <div class="_UserActivityFrame_counterDescription">
                                 in a row max.
                             </div>
                         </div>
 
                         <div class="_UserActivityFrame_counter">
-                            <div class="_UserActivityFrame_counterValue">22 days</div>
+                            <div class="_UserActivityFrame_counterValue">23 days</div>
                             <div class="_UserActivityFrame_counterDescription">
                                 in a row for the last year
                             </div>
                         </div>
 
                         <div class="_UserActivityFrame_counter">
-                            <div class="_UserActivityFrame_counterValue">5 days</div>
+                            <div class="_UserActivityFrame_counterValue">1             day
+</div>
                             <div class="_UserActivityFrame_counterDescription">
-                                in a row for the last month
+                                            in a row for the last month
+
                             </div>
                         </div>
                     </div>
@@ -1862,14 +1870,9 @@ You can review the list of people you trust by the link.
 
             $('#userActivityGraph').empty().calendar_yearview_blocks({
                 data: {
-                    "2024-04-10": {
+                    "2024-07-02": {
                         items: [
                             4
-                        ]
-                    }, 
-                    "2024-04-13": {
-                        items: [
-                            3
                         ]
                     }, 
                     "2024-01-20": {
@@ -1877,12 +1880,12 @@ You can review the list of people you trust by the link.
                             4
                         ]
                     }, 
-                    "2024-04-14": {
+                    "2024-03-01": {
                         items: [
                             2
                         ]
                     }, 
-                    "2024-04-11": {
+                    "2024-07-28": {
                         items: [
                             2
                         ]
@@ -1892,422 +1895,22 @@ You can review the list of people you trust by the link.
                             4
                         ]
                     }, 
-                    "2024-01-21": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-04-12": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-04-06": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-01-13": {
-                        items: [
-                            1
-                        ]
-                    }, 
-                    "2024-04-07": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-01-12": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-01-15": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-04-04": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-01-14": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-04-05": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-01-17": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-01-16": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-01-19": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-04-08": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-01-18": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-04-09": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-11-04": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2023-11-08": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2023-11-07": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2023-11-22": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-11-21": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-30": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-31": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-04-02": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-04-03": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-01-11": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-01-10": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-04-01": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-27": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-28": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-25": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-26": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-01-03": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-01-06": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-29": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-11-15": {
-                        items: [
-                            1
-                        ]
-                    }, 
-                    "2023-11-16": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-06-10": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-23": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-22": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-06-08": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-03-14": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-06-06": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-11-24": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-11-26": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2023-11-28": {
-                        items: [
-                            1
-                        ]
-                    }, 
-                    "2023-11-27": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2023-11-29": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-12-12": {
-                        items: [
-                            1
-                        ]
-                    }, 
-                    "2024-03-12": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-13": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-11": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-05": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-06": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-03": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-04": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-07": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-12-03": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-03-01": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-03-02": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-02-27": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-02-26": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-02-29": {
-                        items: [
-                            1
-                        ]
-                    }, 
-                    "2024-02-28": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2023-12-14": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-02-21": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-02-20": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-02-22": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-02-14": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-02-13": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-05-08": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-02-16": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-02-15": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-02-18": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-02-17": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-02-19": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2023-12-25": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2023-12-24": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2023-12-26": {
-                        items: [
-                            4
-                        ]
-                    }, 
-                    "2024-07-24": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-07-28": {
-                        items: [
-                            2
-                        ]
-                    }, 
-                    "2024-07-27": {
-                        items: [
-                            3
-                        ]
-                    }, 
                     "2024-07-26": {
                         items: [
                             4
                         ]
                     }, 
-                    "2024-07-25": {
+                    "2024-01-21": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-03": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-13": {
                         items: [
                             4
                         ]
@@ -2317,54 +1920,94 @@ You can review the list of people you trust by the link.
                             4
                         ]
                     }, 
-                    "2024-02-05": {
-                        items: [
-                            1
-                        ]
-                    }, 
-                    "2024-02-04": {
-                        items: [
-                            3
-                        ]
-                    }, 
-                    "2024-02-07": {
+                    "2024-01-15": {
                         items: [
                             4
                         ]
                     }, 
-                    "2024-02-08": {
+                    "2024-02-27": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-04": {
                         items: [
                             2
                         ]
                     }, 
-                    "2024-04-21": {
+                    "2024-01-14": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-02-29": {
                         items: [
                             2
+                        ]
+                    }, 
+                    "2024-01-17": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-16": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-19": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-04-08": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-18": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-05-10": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-05-11": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-03-12": {
+                        items: [
+                            4
                         ]
                     }, 
                     "2024-01-31": {
                         items: [
-                            3
-                        ]
-                    }, 
-                    "2024-04-24": {
-                        items: [
-                            2
+                            4
                         ]
                     }, 
                     "2024-01-30": {
                         items: [
-                            3
+                            4
+                        ]
+                    }, 
+                    "2024-02-20": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-05-15": {
+                        items: [
+                            4
                         ]
                     }, 
                     "2024-02-01": {
                         items: [
-                            1
-                        ]
-                    }, 
-                    "2024-04-23": {
-                        items: [
-                            2
+                            4
                         ]
                     }, 
                     "2024-01-24": {
@@ -2372,24 +2015,59 @@ You can review the list of people you trust by the link.
                             4
                         ]
                     }, 
-                    "2024-04-17": {
-                        items: [
-                            2
-                        ]
-                    }, 
                     "2024-01-23": {
                         items: [
                             4
                         ]
                     }, 
-                    "2024-04-15": {
+                    "2024-01-26": {
                         items: [
-                            2
+                            4
                         ]
                     }, 
                     "2024-01-25": {
                         items: [
-                            1
+                            4
+                        ]
+                    }, 
+                    "2024-02-15": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-18": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-01-28": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-27": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-17": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-05-09": {
+                        items: [
+                            4
+                        ]
+                    }, 
+                    "2024-01-08": {
+                        items: [
+                            3
+                        ]
+                    }, 
+                    "2024-02-19": {
+                        items: [
+                            4
                         ]
                     }, 
                     "2024-01-29": {
@@ -2428,7 +2106,7 @@ You can review the list of people you trust by the link.
         renderCalendar();
 
         $("._UserActivityFrame_selector select[name=showPrivateActivity]").change(function () {
-            $.post("/data/user/dhruvil_9198/activity", {
+            $.post("/data/user/Param3010/activity", {
                 action: "changeSettings",
                 showPrivateActivity: $(this).val()
             }, function (response) {
@@ -2471,7 +2149,7 @@ You can review the list of people you trust by the link.
             <div id="footer">
                 <div><a href="https://codeforces.com/">Codeforces</a> (c) Copyright 2010-2024 Mike Mirzayanov</div>
                 <div>The only programming contests Web 2.0 platform</div>
-                    <div>Server time: Jul/29/2024 17:45:35<sup title="timezone offset" style="font-size:8px;">UTC+5.5</sup> (i1).</div>
+                    <div>Server time: Jul/29/2024 18:26:25<sup title="timezone offset" style="font-size:8px;">UTC+5.5</sup> (i1).</div>
                     <div>Desktop version, switch to <a rel="nofollow" class="switchToMobile" href="?mobile=true">mobile version</a>.</div>
                 <div class="smaller"><a href="/privacy">Privacy Policy</a></div>
 
@@ -2711,7 +2389,7 @@ You can review the list of people you trust by the link.
                 });
         }
     </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8aad090439f3f3ed',t:'MTcyMjI1NTMzNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8aad090439f3f3ed&quot;,&quot;version&quot;:&quot;2024.7.0&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfL4&quot;:true}},&quot;token&quot;:&quot;316c29dfa3804effb5a91c52a59b5bd0&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8aad44d3d9977f12',t:'MTcyMjI1Nzc4NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;"></iframe><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;8aad44d3d9977f12&quot;,&quot;version&quot;:&quot;2024.7.0&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfL4&quot;:true}},&quot;token&quot;:&quot;316c29dfa3804effb5a91c52a59b5bd0&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
 
 
 <div id="datepick-div" style="display: none;"></div><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 42px; padding-right: 42px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div class="svg-tip svg-tip-one-line" style="display:none"></div><div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; min-width: 0px; max-width: none; padding: 0px; border: 0px; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-size-adjust: none; font-family: MathJax_Size1, monospace;"></div></div></body></html>

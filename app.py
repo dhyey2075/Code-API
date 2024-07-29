@@ -74,8 +74,7 @@ def get(username):
     cf_data['username'] = username
     return jsonify(cf_data)
 
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 5000))  # Ensure you use the PORT variable
-    app.run(host="0.0.0.0", port=port)
+if __name__ == "__main__":  # Ensure you use the PORT variable
+    app.run(host="0.0.0.0")
 
 # Close the WebDriver
